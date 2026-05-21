@@ -743,9 +743,11 @@ function renderLogoGrid(logos) {
     item.onclick = () => toggleLogo(logo.id);
 
     const img = document.createElement('img');
-    img.src = logo.file;
+    // Lazy load — only fetch when scrolled into view
+    img.dataset.src = logo.file;
     img.alt = logo.name;
     img.onerror = () => { img.style.display = 'none'; };
+    logoObserver.observe(img);
 
     const chk = document.createElement('div');
     chk.className = 'chk';
@@ -756,6 +758,19 @@ function renderLogoGrid(logos) {
     grid.appendChild(item);
   });
 }
+
+// Intersection Observer for lazy loading logo grid images
+const logoObserver = new IntersectionObserver((entries) => {
+  entries.forEach(entry => {
+    if (entry.isIntersecting) {
+      const img = entry.target;
+      if (img.dataset.src && !img.src) {
+        img.src = img.dataset.src;
+      }
+      logoObserver.unobserve(img);
+    }
+  });
+}, { rootMargin: '50px' });
 
 function toggleLogo(id) {
   const idx = state.selectedIds.indexOf(id);
