@@ -1,0 +1,4986 @@
+[
+  {
+    "id": "mlb-angels",
+    "name": "Angels",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Angels.png"
+  },
+  {
+    "id": "mlb-as",
+    "name": "As",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/As.png"
+  },
+  {
+    "id": "mlb-astros",
+    "name": "Astros",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Astros.png"
+  },
+  {
+    "id": "mlb-bluejays",
+    "name": "Bluejays",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Bluejays.png"
+  },
+  {
+    "id": "mlb-braves",
+    "name": "Braves",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Braves.png"
+  },
+  {
+    "id": "mlb-brews",
+    "name": "Brews",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Brews.png"
+  },
+  {
+    "id": "mlb-cardinals",
+    "name": "Cardinals",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Cardinals.png"
+  },
+  {
+    "id": "mlb-cubs",
+    "name": "Cubs",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Cubs.png"
+  },
+  {
+    "id": "mlb-diamondbacks",
+    "name": "Diamondbacks",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Diamondbacks.png"
+  },
+  {
+    "id": "mlb-dodgers",
+    "name": "Dodgers",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Dodgers.png"
+  },
+  {
+    "id": "mlb-giants",
+    "name": "Giants",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Giants.png"
+  },
+  {
+    "id": "mlb-guardians",
+    "name": "Guardians",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Guardians.png"
+  },
+  {
+    "id": "mlb-mariners",
+    "name": "Mariners",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Mariners.png"
+  },
+  {
+    "id": "mlb-marlins",
+    "name": "Marlins",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Marlins.png"
+  },
+  {
+    "id": "mlb-mets",
+    "name": "Mets",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Mets.png"
+  },
+  {
+    "id": "mlb-nationals",
+    "name": "Nationals",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Nationals.png"
+  },
+  {
+    "id": "mlb-orioles",
+    "name": "Orioles",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Orioles.png"
+  },
+  {
+    "id": "mlb-padres",
+    "name": "Padres",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Padres.png"
+  },
+  {
+    "id": "mlb-phillies",
+    "name": "Phillies",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Phillies.png"
+  },
+  {
+    "id": "mlb-pirates",
+    "name": "Pirates",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Pirates.png"
+  },
+  {
+    "id": "mlb-rangers",
+    "name": "Rangers",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Rangers.png"
+  },
+  {
+    "id": "mlb-rays",
+    "name": "Rays",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Rays.png"
+  },
+  {
+    "id": "mlb-red-sox",
+    "name": "Red Sox",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Red Sox.png"
+  },
+  {
+    "id": "mlb-reds",
+    "name": "Reds",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Reds.png"
+  },
+  {
+    "id": "mlb-rockies",
+    "name": "Rockies",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Rockies.png"
+  },
+  {
+    "id": "mlb-royals",
+    "name": "Royals",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Royals.png"
+  },
+  {
+    "id": "mlb-tigers",
+    "name": "Tigers",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Tigers.png"
+  },
+  {
+    "id": "mlb-twins",
+    "name": "Twins",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Twins.png"
+  },
+  {
+    "id": "mlb-white-sox",
+    "name": "White Sox",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/White Sox.png"
+  },
+  {
+    "id": "mlb-yankees",
+    "name": "Yankees",
+    "sport": "MLB",
+    "sub": "",
+    "file": "logos/MLB/Yankees.png"
+  },
+  {
+    "id": "nba-nbas-color-ahawks-primary-icon",
+    "name": "Nbas (Color)=Ahawks Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Ahawks Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-bceltics-primary-icon",
+    "name": "Nbas (Color)=Bceltics Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Bceltics Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-bklynnets-primary-icon",
+    "name": "Nbas (Color)=Bklynnets Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Bklynnets Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-cbulls-primary-icon",
+    "name": "Nbas (Color)=Cbulls Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Cbulls Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-ccavaliers-primary-icon",
+    "name": "Nbas (Color)=Ccavaliers Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Ccavaliers Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-chornets-primary-icon",
+    "name": "Nbas (Color)=Chornets Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Chornets Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-dmavericks-primary-icon",
+    "name": "Nbas (Color)=Dmavericks Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Dmavericks Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-dnuggets-primary-icon",
+    "name": "Nbas (Color)=Dnuggets Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Dnuggets Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-dpistons-primary-icon",
+    "name": "Nbas (Color)=Dpistons Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Dpistons Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-gswarriors-primary-icon",
+    "name": "Nbas (Color)=Gswarriors Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Gswarriors Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-hrockets-primary-icon",
+    "name": "Nbas (Color)=Hrockets Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Hrockets Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-ipacers-primary-icon",
+    "name": "Nbas (Color)=Ipacers Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Ipacers Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-laclippers-primary-icon",
+    "name": "Nbas (Color)=Laclippers Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Laclippers Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-lalakers-icon",
+    "name": "Nbas (Color)=Lalakers Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Lalakers Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-mbucks-primary-icon",
+    "name": "Nbas (Color)=Mbucks Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Mbucks Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-mgrizzlies-primary-icon",
+    "name": "Nbas (Color)=Mgrizzlies Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Mgrizzlies Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-mheat-primary-icon",
+    "name": "Nbas (Color)=Mheat Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Mheat Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-mtimberwolves-primary-icon",
+    "name": "Nbas (Color)=Mtimberwolves Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Mtimberwolves Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-nopelicans-primary-icon",
+    "name": "Nbas (Color)=Nopelicans Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Nopelicans Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-nyknicks-primary-icon",
+    "name": "Nbas (Color)=Nyknicks Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Nyknicks Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-okcthunder-primary-icon",
+    "name": "Nbas (Color)=Okcthunder Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Okcthunder Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-omagic-primary-icon",
+    "name": "Nbas (Color)=Omagic Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Omagic Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-p76ers-primary-icon",
+    "name": "Nbas (Color)=P76Ers Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=P76Ers Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-psuns-primary-icon",
+    "name": "Nbas (Color)=Psuns Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Psuns Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-ptrailblazers-primary-icon",
+    "name": "Nbas (Color)=Ptrailblazers Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Ptrailblazers Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-saspurs-primary-icon",
+    "name": "Nbas (Color)=Saspurs Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Saspurs Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-skings-primary-icon",
+    "name": "Nbas (Color)=Skings Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Skings Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-traptors-primary-icon",
+    "name": "Nbas (Color)=Traptors Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Traptors Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-ujazz-primary-icon",
+    "name": "Nbas (Color)=Ujazz Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Ujazz Primary Icon.png"
+  },
+  {
+    "id": "nba-nbas-color-wwizards-primary-icon",
+    "name": "Nbas (Color)=Wwizards Primary Icon",
+    "sport": "NBA",
+    "sub": "",
+    "file": "logos/NBA/Nbas (Color)=Wwizards Primary Icon.png"
+  },
+  {
+    "id": "ncaa-conferences-america-east-conference",
+    "name": "America East Conference",
+    "sport": "NCAA",
+    "sub": "Conferences",
+    "file": "logos/NCAA/Conferences/America East Conference.png"
+  },
+  {
+    "id": "ncaa-conferences-american-athletic-conference",
+    "name": "American Athletic Conference",
+    "sport": "NCAA",
+    "sub": "Conferences",
+    "file": "logos/NCAA/Conferences/American Athletic Conference.png"
+  },
+  {
+    "id": "ncaa-conferences-atlantic-coast-conference",
+    "name": "Atlantic Coast Conference",
+    "sport": "NCAA",
+    "sub": "Conferences",
+    "file": "logos/NCAA/Conferences/Atlantic Coast Conference.png"
+  },
+  {
+    "id": "ncaa-conferences-atlantic-coast-conference-whte",
+    "name": "Atlantic Coast Conference Whte",
+    "sport": "NCAA",
+    "sub": "Conferences",
+    "file": "logos/NCAA/Conferences/Atlantic Coast Conference Whte.png"
+  },
+  {
+    "id": "ncaa-conferences-big-12-conference-cropped",
+    "name": "Big 12 Conference (Cropped)",
+    "sport": "NCAA",
+    "sub": "Conferences",
+    "file": "logos/NCAA/Conferences/Big 12 Conference (Cropped).png"
+  },
+  {
+    "id": "ncaa-conferences-big-east-conference",
+    "name": "Big East Conference",
+    "sport": "NCAA",
+    "sub": "Conferences",
+    "file": "logos/NCAA/Conferences/Big East Conference.png"
+  },
+  {
+    "id": "ncaa-conferences-big-east-conference-white",
+    "name": "Big East Conference White",
+    "sport": "NCAA",
+    "sub": "Conferences",
+    "file": "logos/NCAA/Conferences/Big East Conference White.png"
+  },
+  {
+    "id": "ncaa-conferences-big-ten-conference",
+    "name": "Big Ten Conference",
+    "sport": "NCAA",
+    "sub": "Conferences",
+    "file": "logos/NCAA/Conferences/Big Ten Conference.png"
+  },
+  {
+    "id": "ncaa-conferences-big-ten-conference-white",
+    "name": "Big Ten Conference White",
+    "sport": "NCAA",
+    "sub": "Conferences",
+    "file": "logos/NCAA/Conferences/Big Ten Conference White.png"
+  },
+  {
+    "id": "ncaa-conferences-conference-usa",
+    "name": "Conference Usa",
+    "sport": "NCAA",
+    "sub": "Conferences",
+    "file": "logos/NCAA/Conferences/Conference Usa.png"
+  },
+  {
+    "id": "ncaa-conferences-mid-american-conference",
+    "name": "Mid-American Conference",
+    "sport": "NCAA",
+    "sub": "Conferences",
+    "file": "logos/NCAA/Conferences/Mid-American Conference.png"
+  },
+  {
+    "id": "ncaa-conferences-mid-american-conference-white",
+    "name": "Mid-American Conference White",
+    "sport": "NCAA",
+    "sub": "Conferences",
+    "file": "logos/NCAA/Conferences/Mid-American Conference White.png"
+  },
+  {
+    "id": "ncaa-conferences-mountain-west-conference",
+    "name": "Mountain West Conference",
+    "sport": "NCAA",
+    "sub": "Conferences",
+    "file": "logos/NCAA/Conferences/Mountain West Conference.png"
+  },
+  {
+    "id": "ncaa-conferences-pac",
+    "name": "Pac-",
+    "sport": "NCAA",
+    "sub": "Conferences",
+    "file": "logos/NCAA/Conferences/Pac-.png"
+  },
+  {
+    "id": "ncaa-conferences-southeastern-conference",
+    "name": "Southeastern Conference",
+    "sport": "NCAA",
+    "sub": "Conferences",
+    "file": "logos/NCAA/Conferences/Southeastern Conference.png"
+  },
+  {
+    "id": "ncaa-teams-abilene-christian",
+    "name": "Abilene-Christian",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Abilene-Christian.png"
+  },
+  {
+    "id": "ncaa-teams-air-force",
+    "name": "Air-Force",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Air-Force.png"
+  },
+  {
+    "id": "ncaa-teams-air-force-wht",
+    "name": "Air-Force Wht",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Air-Force Wht.png"
+  },
+  {
+    "id": "ncaa-teams-akron",
+    "name": "Akron",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Akron.png"
+  },
+  {
+    "id": "ncaa-teams-alabama",
+    "name": "Alabama",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Alabama.png"
+  },
+  {
+    "id": "ncaa-teams-alabama-ltt",
+    "name": "Alabama Ltt",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Alabama Ltt.png"
+  },
+  {
+    "id": "ncaa-teams-am-corpus-chris",
+    "name": "Am-Corpus-Chris",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Am-Corpus-Chris.png"
+  },
+  {
+    "id": "ncaa-teams-arizona",
+    "name": "Arizona",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Arizona.png"
+  },
+  {
+    "id": "ncaa-teams-arizona-st",
+    "name": "Arizona-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Arizona-St.png"
+  },
+  {
+    "id": "ncaa-teams-arizona-st-wht",
+    "name": "Arizona-St Wht",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Arizona-St Wht.png"
+  },
+  {
+    "id": "ncaa-teams-arkansas",
+    "name": "Arkansas",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Arkansas.png"
+  },
+  {
+    "id": "ncaa-teams-army",
+    "name": "Army",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Army.png"
+  },
+  {
+    "id": "ncaa-teams-auburn",
+    "name": "Auburn",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Auburn.png"
+  },
+  {
+    "id": "ncaa-teams-auburn-wht",
+    "name": "Auburn Wht",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Auburn Wht.png"
+  },
+  {
+    "id": "ncaa-teams-austin-peay",
+    "name": "Austin-Peay",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Austin-Peay.png"
+  },
+  {
+    "id": "ncaa-teams-baylor",
+    "name": "Baylor",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Baylor.png"
+  },
+  {
+    "id": "ncaa-teams-baylor-yell",
+    "name": "Baylor Yell",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Baylor Yell.png"
+  },
+  {
+    "id": "ncaa-teams-boise-st",
+    "name": "Boise-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Boise-St.png"
+  },
+  {
+    "id": "ncaa-teams-boston-college",
+    "name": "Boston-College",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Boston-College.png"
+  },
+  {
+    "id": "ncaa-teams-brown",
+    "name": "Brown",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Brown.png"
+  },
+  {
+    "id": "ncaa-teams-brown-wht",
+    "name": "Brown Wht",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Brown Wht.png"
+  },
+  {
+    "id": "ncaa-teams-bryant",
+    "name": "Bryant",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Bryant.png"
+  },
+  {
+    "id": "ncaa-teams-butler",
+    "name": "Butler",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Butler.png"
+  },
+  {
+    "id": "ncaa-teams-byu",
+    "name": "Byu",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Byu.png"
+  },
+  {
+    "id": "ncaa-teams-cal-st-fullerton",
+    "name": "Cal-St-Fullerton",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Cal-St-Fullerton.png"
+  },
+  {
+    "id": "ncaa-teams-california",
+    "name": "California",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/California.png"
+  },
+  {
+    "id": "ncaa-teams-california-yell",
+    "name": "California Yell",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/California Yell.png"
+  },
+  {
+    "id": "ncaa-teams-central-ark",
+    "name": "Central-Ark",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Central-Ark.png"
+  },
+  {
+    "id": "ncaa-teams-central-mich",
+    "name": "Central-Mich",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Central-Mich.png"
+  },
+  {
+    "id": "ncaa-teams-central-mich-wht",
+    "name": "Central-Mich Wht",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Central-Mich Wht.png"
+  },
+  {
+    "id": "ncaa-teams-charlotte",
+    "name": "Charlotte",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Charlotte.png"
+  },
+  {
+    "id": "ncaa-teams-chattanooga",
+    "name": "Chattanooga",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Chattanooga.png"
+  },
+  {
+    "id": "ncaa-teams-cincinnati",
+    "name": "Cincinnati",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Cincinnati.png"
+  },
+  {
+    "id": "ncaa-teams-cincinnati-wht",
+    "name": "Cincinnati Wht",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Cincinnati Wht.png"
+  },
+  {
+    "id": "ncaa-teams-clemson",
+    "name": "Clemson",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Clemson.png"
+  },
+  {
+    "id": "ncaa-teams-coastal-caro",
+    "name": "Coastal-Caro",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Coastal-Caro.png"
+  },
+  {
+    "id": "ncaa-teams-colorado",
+    "name": "Colorado",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Colorado.png"
+  },
+  {
+    "id": "ncaa-teams-colorado-st",
+    "name": "Colorado-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Colorado-St.png"
+  },
+  {
+    "id": "ncaa-teams-columbia",
+    "name": "Columbia",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Columbia.png"
+  },
+  {
+    "id": "ncaa-teams-cornell",
+    "name": "Cornell",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Cornell.png"
+  },
+  {
+    "id": "ncaa-teams-creighton",
+    "name": "Creighton",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Creighton.png"
+  },
+  {
+    "id": "ncaa-teams-dartmouth",
+    "name": "Dartmouth",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Dartmouth.png"
+  },
+  {
+    "id": "ncaa-teams-davidson",
+    "name": "Davidson",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Davidson.png"
+  },
+  {
+    "id": "ncaa-teams-dayton",
+    "name": "Dayton",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Dayton.png"
+  },
+  {
+    "id": "ncaa-teams-delaware",
+    "name": "Delaware",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Delaware.png"
+  },
+  {
+    "id": "ncaa-teams-depaul",
+    "name": "Depaul",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Depaul.png"
+  },
+  {
+    "id": "ncaa-teams-drexel",
+    "name": "Drexel",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Drexel.png"
+  },
+  {
+    "id": "ncaa-teams-duke",
+    "name": "Duke",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Duke.png"
+  },
+  {
+    "id": "ncaa-teams-duquesne",
+    "name": "Duquesne",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Duquesne.png"
+  },
+  {
+    "id": "ncaa-teams-duquesne-red",
+    "name": "Duquesne Red",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Duquesne Red.png"
+  },
+  {
+    "id": "ncaa-teams-east-carolina",
+    "name": "East-Carolina",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/East-Carolina.png"
+  },
+  {
+    "id": "ncaa-teams-fairfield",
+    "name": "Fairfield",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Fairfield.png"
+  },
+  {
+    "id": "ncaa-teams-fgcu",
+    "name": "Fgcu",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Fgcu.png"
+  },
+  {
+    "id": "ncaa-teams-fiu",
+    "name": "Fiu",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Fiu.png"
+  },
+  {
+    "id": "ncaa-teams-fla-atlantic",
+    "name": "Fla-Atlantic",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Fla-Atlantic.png"
+  },
+  {
+    "id": "ncaa-teams-florida",
+    "name": "Florida",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Florida.png"
+  },
+  {
+    "id": "ncaa-teams-florida-am-rattlers",
+    "name": "Florida Am Rattlers",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Florida Am Rattlers.png"
+  },
+  {
+    "id": "ncaa-teams-florida-st",
+    "name": "Florida-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Florida-St.png"
+  },
+  {
+    "id": "ncaa-teams-fordham",
+    "name": "Fordham",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Fordham.png"
+  },
+  {
+    "id": "ncaa-teams-ga-southern",
+    "name": "Ga-Southern",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Ga-Southern.png"
+  },
+  {
+    "id": "ncaa-teams-george-washington",
+    "name": "George-Washington",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/George-Washington.png"
+  },
+  {
+    "id": "ncaa-teams-georgetown",
+    "name": "Georgetown",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Georgetown.png"
+  },
+  {
+    "id": "ncaa-teams-georgetown-wht",
+    "name": "Georgetown Wht",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Georgetown Wht.png"
+  },
+  {
+    "id": "ncaa-teams-georgia",
+    "name": "Georgia",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Georgia.png"
+  },
+  {
+    "id": "ncaa-teams-georgia-st",
+    "name": "Georgia-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Georgia-St.png"
+  },
+  {
+    "id": "ncaa-teams-georgia-tech",
+    "name": "Georgia-Tech",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Georgia-Tech.png"
+  },
+  {
+    "id": "ncaa-teams-gonzaga",
+    "name": "Gonzaga",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Gonzaga.png"
+  },
+  {
+    "id": "ncaa-teams-harvard",
+    "name": "Harvard",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Harvard.png"
+  },
+  {
+    "id": "ncaa-teams-houston",
+    "name": "Houston",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Houston.png"
+  },
+  {
+    "id": "ncaa-teams-howard",
+    "name": "Howard",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Howard.png"
+  },
+  {
+    "id": "ncaa-teams-idaho",
+    "name": "Idaho",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Idaho.png"
+  },
+  {
+    "id": "ncaa-teams-illinois",
+    "name": "Illinois",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Illinois.png"
+  },
+  {
+    "id": "ncaa-teams-indiana",
+    "name": "Indiana",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Indiana.png"
+  },
+  {
+    "id": "ncaa-teams-indiana-wht",
+    "name": "Indiana Wht",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Indiana Wht.png"
+  },
+  {
+    "id": "ncaa-teams-iowa",
+    "name": "Iowa",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Iowa.png"
+  },
+  {
+    "id": "ncaa-teams-iowa-yell",
+    "name": "Iowa Yell",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Iowa Yell.png"
+  },
+  {
+    "id": "ncaa-teams-iowa-st",
+    "name": "Iowa-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Iowa-St.png"
+  },
+  {
+    "id": "ncaa-teams-jacksonville-st",
+    "name": "Jacksonville-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Jacksonville-St.png"
+  },
+  {
+    "id": "ncaa-teams-james-madison",
+    "name": "James-Madison",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/James-Madison.png"
+  },
+  {
+    "id": "ncaa-teams-kansas",
+    "name": "Kansas",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Kansas.png"
+  },
+  {
+    "id": "ncaa-teams-kansas-st",
+    "name": "Kansas-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Kansas-St.png"
+  },
+  {
+    "id": "ncaa-teams-kansas-st-wht",
+    "name": "Kansas-St Wht",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Kansas-St Wht.png"
+  },
+  {
+    "id": "ncaa-teams-kent-st",
+    "name": "Kent-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Kent-St.png"
+  },
+  {
+    "id": "ncaa-teams-kentucky",
+    "name": "Kentucky",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Kentucky.png"
+  },
+  {
+    "id": "ncaa-teams-la-lafayette",
+    "name": "La-Lafayette",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/La-Lafayette.png"
+  },
+  {
+    "id": "ncaa-teams-lehigh",
+    "name": "Lehigh",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Lehigh.png"
+  },
+  {
+    "id": "ncaa-teams-liberty",
+    "name": "Liberty",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Liberty.png"
+  },
+  {
+    "id": "ncaa-teams-long-beach-st",
+    "name": "Long-Beach-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Long-Beach-St.png"
+  },
+  {
+    "id": "ncaa-teams-longwood",
+    "name": "Longwood",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Longwood.png"
+  },
+  {
+    "id": "ncaa-teams-louisiana-tech",
+    "name": "Louisiana-Tech",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Louisiana-Tech.png"
+  },
+  {
+    "id": "ncaa-teams-louisville",
+    "name": "Louisville",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Louisville.png"
+  },
+  {
+    "id": "ncaa-teams-loyola-chicago",
+    "name": "Loyola-Chicago",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Loyola-Chicago.png"
+  },
+  {
+    "id": "ncaa-teams-loyola-marymount",
+    "name": "Loyola-Marymount",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Loyola-Marymount.png"
+  },
+  {
+    "id": "ncaa-teams-lsu",
+    "name": "Lsu",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Lsu.png"
+  },
+  {
+    "id": "ncaa-teams-lsu-yell",
+    "name": "Lsu Yell",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Lsu Yell.png"
+  },
+  {
+    "id": "ncaa-teams-marquette",
+    "name": "Marquette",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Marquette.png"
+  },
+  {
+    "id": "ncaa-teams-marshall",
+    "name": "Marshall",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Marshall.png"
+  },
+  {
+    "id": "ncaa-teams-maryland",
+    "name": "Maryland",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Maryland.png"
+  },
+  {
+    "id": "ncaa-teams-massachusetts",
+    "name": "Massachusetts",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Massachusetts.png"
+  },
+  {
+    "id": "ncaa-teams-mcneese-st",
+    "name": "Mcneese-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Mcneese-St.png"
+  },
+  {
+    "id": "ncaa-teams-memphis",
+    "name": "Memphis",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Memphis.png"
+  },
+  {
+    "id": "ncaa-teams-merrimack",
+    "name": "Merrimack",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Merrimack.png"
+  },
+  {
+    "id": "ncaa-teams-miami-fl",
+    "name": "Miami-Fl",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Miami-Fl.png"
+  },
+  {
+    "id": "ncaa-teams-michigan",
+    "name": "Michigan",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Michigan.png"
+  },
+  {
+    "id": "ncaa-teams-michigan-st",
+    "name": "Michigan-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Michigan-St.png"
+  },
+  {
+    "id": "ncaa-teams-michigan-st-wht",
+    "name": "Michigan-St Wht",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Michigan-St Wht.png"
+  },
+  {
+    "id": "ncaa-teams-middle-tenn",
+    "name": "Middle-Tenn",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Middle-Tenn.png"
+  },
+  {
+    "id": "ncaa-teams-minnesota",
+    "name": "Minnesota",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Minnesota.png"
+  },
+  {
+    "id": "ncaa-teams-mississippi-st",
+    "name": "Mississippi-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Mississippi-St.png"
+  },
+  {
+    "id": "ncaa-teams-missouri",
+    "name": "Missouri",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Missouri.png"
+  },
+  {
+    "id": "ncaa-teams-missouri-st",
+    "name": "Missouri-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Missouri-St.png"
+  },
+  {
+    "id": "ncaa-teams-montana-st",
+    "name": "Montana-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Montana-St.png"
+  },
+  {
+    "id": "ncaa-teams-morehead-st",
+    "name": "Morehead-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Morehead-St.png"
+  },
+  {
+    "id": "ncaa-teams-morgan-st",
+    "name": "Morgan-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Morgan-St.png"
+  },
+  {
+    "id": "ncaa-teams-murray-st",
+    "name": "Murray-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Murray-St.png"
+  },
+  {
+    "id": "ncaa-teams-navy",
+    "name": "Navy",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Navy.png"
+  },
+  {
+    "id": "ncaa-teams-nc-state",
+    "name": "Nc State",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Nc State.png"
+  },
+  {
+    "id": "ncaa-teams-nebraska",
+    "name": "Nebraska",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Nebraska.png"
+  },
+  {
+    "id": "ncaa-teams-new-hampshire",
+    "name": "New-Hampshire",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/New-Hampshire.png"
+  },
+  {
+    "id": "ncaa-teams-new-mexico",
+    "name": "New-Mexico",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/New-Mexico.png"
+  },
+  {
+    "id": "ncaa-teams-new-mexico-st",
+    "name": "New-Mexico-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/New-Mexico-St.png"
+  },
+  {
+    "id": "ncaa-teams-njit",
+    "name": "Njit",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Njit.png"
+  },
+  {
+    "id": "ncaa-teams-norfolk-st",
+    "name": "Norfolk-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Norfolk-St.png"
+  },
+  {
+    "id": "ncaa-teams-north-carolina",
+    "name": "North-Carolina",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/North-Carolina.png"
+  },
+  {
+    "id": "ncaa-teams-north-carolina-st",
+    "name": "North-Carolina-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/North-Carolina-St.png"
+  },
+  {
+    "id": "ncaa-teams-north-texas",
+    "name": "North-Texas",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/North-Texas.png"
+  },
+  {
+    "id": "ncaa-teams-northeastern",
+    "name": "Northeastern",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Northeastern.png"
+  },
+  {
+    "id": "ncaa-teams-northern-ariz",
+    "name": "Northern-Ariz",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Northern-Ariz.png"
+  },
+  {
+    "id": "ncaa-teams-northern-ariz-wht",
+    "name": "Northern-Ariz Wht",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Northern-Ariz Wht.png"
+  },
+  {
+    "id": "ncaa-teams-northern-ill",
+    "name": "Northern-Ill",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Northern-Ill.png"
+  },
+  {
+    "id": "ncaa-teams-northwestern",
+    "name": "Northwestern",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Northwestern.png"
+  },
+  {
+    "id": "ncaa-teams-notre-dame",
+    "name": "Notre-Dame",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Notre-Dame.png"
+  },
+  {
+    "id": "ncaa-teams-notre-dame-yell",
+    "name": "Notre-Dame Yell",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Notre-Dame Yell.png"
+  },
+  {
+    "id": "ncaa-teams-ohio",
+    "name": "Ohio",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Ohio.png"
+  },
+  {
+    "id": "ncaa-teams-ohio-st",
+    "name": "Ohio-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Ohio-St.png"
+  },
+  {
+    "id": "ncaa-teams-oklahoma",
+    "name": "Oklahoma",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Oklahoma.png"
+  },
+  {
+    "id": "ncaa-teams-oklahoma-st",
+    "name": "Oklahoma-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Oklahoma-St.png"
+  },
+  {
+    "id": "ncaa-teams-old-dominion",
+    "name": "Old-Dominion",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Old-Dominion.png"
+  },
+  {
+    "id": "ncaa-teams-ole-miss",
+    "name": "Ole-Miss",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Ole-Miss.png"
+  },
+  {
+    "id": "ncaa-teams-oral-roberts",
+    "name": "Oral-Roberts",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Oral-Roberts.png"
+  },
+  {
+    "id": "ncaa-teams-oregon",
+    "name": "Oregon",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Oregon.png"
+  },
+  {
+    "id": "ncaa-teams-oregon-2",
+    "name": "Oregon 2",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Oregon 2.png"
+  },
+  {
+    "id": "ncaa-teams-oregon-st",
+    "name": "Oregon-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Oregon-St.png"
+  },
+  {
+    "id": "ncaa-teams-penn",
+    "name": "Penn",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Penn.png"
+  },
+  {
+    "id": "ncaa-teams-penn-st",
+    "name": "Penn-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Penn-St.png"
+  },
+  {
+    "id": "ncaa-teams-pittsburgh",
+    "name": "Pittsburgh",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Pittsburgh.png"
+  },
+  {
+    "id": "ncaa-teams-portland-st",
+    "name": "Portland-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Portland-St.png"
+  },
+  {
+    "id": "ncaa-teams-prairie-view",
+    "name": "Prairie-View",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Prairie-View.png"
+  },
+  {
+    "id": "ncaa-teams-princeton",
+    "name": "Princeton",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Princeton.png"
+  },
+  {
+    "id": "ncaa-teams-providence",
+    "name": "Providence",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Providence.png"
+  },
+  {
+    "id": "ncaa-teams-purdue",
+    "name": "Purdue",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Purdue.png"
+  },
+  {
+    "id": "ncaa-teams-rhode-island",
+    "name": "Rhode-Island",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Rhode-Island.png"
+  },
+  {
+    "id": "ncaa-teams-rice",
+    "name": "Rice",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Rice.png"
+  },
+  {
+    "id": "ncaa-teams-richmond",
+    "name": "Richmond",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Richmond.png"
+  },
+  {
+    "id": "ncaa-teams-robert-morris",
+    "name": "Robert-Morris",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Robert-Morris.png"
+  },
+  {
+    "id": "ncaa-teams-rutgers",
+    "name": "Rutgers",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Rutgers.png"
+  },
+  {
+    "id": "ncaa-teams-sacred-heart",
+    "name": "Sacred-Heart",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Sacred-Heart.png"
+  },
+  {
+    "id": "ncaa-teams-saint-louis",
+    "name": "Saint-Louis",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Saint-Louis.png"
+  },
+  {
+    "id": "ncaa-teams-sam-houston-st",
+    "name": "Sam-Houston-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Sam-Houston-St.png"
+  },
+  {
+    "id": "ncaa-teams-san-diego",
+    "name": "San-Diego",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/San-Diego.png"
+  },
+  {
+    "id": "ncaa-teams-san-diego-st",
+    "name": "San-Diego-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/San-Diego-St.png"
+  },
+  {
+    "id": "ncaa-teams-san-francisco",
+    "name": "San-Francisco",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/San-Francisco.png"
+  },
+  {
+    "id": "ncaa-teams-seton-hall",
+    "name": "Seton-Hall",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Seton-Hall.png"
+  },
+  {
+    "id": "ncaa-teams-smu",
+    "name": "Smu",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Smu.png"
+  },
+  {
+    "id": "ncaa-teams-south-carolina",
+    "name": "South-Carolina",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/South-Carolina.png"
+  },
+  {
+    "id": "ncaa-teams-south-dakota-st",
+    "name": "South-Dakota-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/South-Dakota-St.png"
+  },
+  {
+    "id": "ncaa-teams-south-fla",
+    "name": "South-Fla",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/South-Fla.png"
+  },
+  {
+    "id": "ncaa-teams-southern-california",
+    "name": "Southern-California",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Southern-California.png"
+  },
+  {
+    "id": "ncaa-teams-southern-utah",
+    "name": "Southern-Utah",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Southern-Utah.png"
+  },
+  {
+    "id": "ncaa-teams-st-francis-ny",
+    "name": "St-Francis-Ny",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/St-Francis-Ny.png"
+  },
+  {
+    "id": "ncaa-teams-st-francis-pa",
+    "name": "St-Francis-Pa",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/St-Francis-Pa.png"
+  },
+  {
+    "id": "ncaa-teams-st-johns-ny",
+    "name": "St-Johns-Ny",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/St-Johns-Ny.png"
+  },
+  {
+    "id": "ncaa-teams-st-marys-ca",
+    "name": "St-Marys-Ca",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/St-Marys-Ca.png"
+  },
+  {
+    "id": "ncaa-teams-st-peters",
+    "name": "St-Peters",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/St-Peters.png"
+  },
+  {
+    "id": "ncaa-teams-stanford",
+    "name": "Stanford",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Stanford.png"
+  },
+  {
+    "id": "ncaa-teams-stetson",
+    "name": "Stetson",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Stetson.png"
+  },
+  {
+    "id": "ncaa-teams-syracuse",
+    "name": "Syracuse",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Syracuse.png"
+  },
+  {
+    "id": "ncaa-teams-tcu",
+    "name": "Tcu",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Tcu.png"
+  },
+  {
+    "id": "ncaa-teams-temple",
+    "name": "Temple",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Temple.png"
+  },
+  {
+    "id": "ncaa-teams-tennessee",
+    "name": "Tennessee",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Tennessee.png"
+  },
+  {
+    "id": "ncaa-teams-texas",
+    "name": "Texas",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Texas.png"
+  },
+  {
+    "id": "ncaa-teams-texas-a-m-cc-islanders",
+    "name": "Texas A&M Cc (Islanders)",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Texas A&M Cc (Islanders).png"
+  },
+  {
+    "id": "ncaa-teams-texas-am",
+    "name": "Texas-Am",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Texas-Am.png"
+  },
+  {
+    "id": "ncaa-teams-texas-southern",
+    "name": "Texas-Southern",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Texas-Southern.png"
+  },
+  {
+    "id": "ncaa-teams-texas-tech",
+    "name": "Texas-Tech",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Texas-Tech.png"
+  },
+  {
+    "id": "ncaa-teams-toledo",
+    "name": "Toledo",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Toledo.png"
+  },
+  {
+    "id": "ncaa-teams-troy",
+    "name": "Troy",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Troy.png"
+  },
+  {
+    "id": "ncaa-teams-tulane",
+    "name": "Tulane",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Tulane.png"
+  },
+  {
+    "id": "ncaa-teams-tulsa",
+    "name": "Tulsa",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Tulsa.png"
+  },
+  {
+    "id": "ncaa-teams-uab",
+    "name": "Uab",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Uab.png"
+  },
+  {
+    "id": "ncaa-teams-uc-irvine",
+    "name": "Uc-Irvine",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Uc-Irvine.png"
+  },
+  {
+    "id": "ncaa-teams-ucf",
+    "name": "Ucf",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Ucf.png"
+  },
+  {
+    "id": "ncaa-teams-ucla",
+    "name": "Ucla",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Ucla.png"
+  },
+  {
+    "id": "ncaa-teams-ucla-2",
+    "name": "Ucla 2",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Ucla 2.png"
+  },
+  {
+    "id": "ncaa-teams-uconn",
+    "name": "Uconn",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Uconn.png"
+  },
+  {
+    "id": "ncaa-teams-umbc",
+    "name": "Umbc",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Umbc.png"
+  },
+  {
+    "id": "ncaa-teams-unlv",
+    "name": "Unlv",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Unlv.png"
+  },
+  {
+    "id": "ncaa-teams-usc",
+    "name": "Usc",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Usc.png"
+  },
+  {
+    "id": "ncaa-teams-ut-martin",
+    "name": "Ut-Martin",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Ut-Martin.png"
+  },
+  {
+    "id": "ncaa-teams-utah",
+    "name": "Utah",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Utah.png"
+  },
+  {
+    "id": "ncaa-teams-utah-st",
+    "name": "Utah-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Utah-St.png"
+  },
+  {
+    "id": "ncaa-teams-utah-st-wht",
+    "name": "Utah-St Wht",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Utah-St Wht.png"
+  },
+  {
+    "id": "ncaa-teams-utah-tech",
+    "name": "Utah-Tech",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Utah-Tech.png"
+  },
+  {
+    "id": "ncaa-teams-utah-valley",
+    "name": "Utah-Valley",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Utah-Valley.png"
+  },
+  {
+    "id": "ncaa-teams-utep",
+    "name": "Utep",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Utep.png"
+  },
+  {
+    "id": "ncaa-teams-vanderbilt",
+    "name": "Vanderbilt",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Vanderbilt.png"
+  },
+  {
+    "id": "ncaa-teams-variant",
+    "name": "Variant",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Variant.png"
+  },
+  {
+    "id": "ncaa-teams-vcu",
+    "name": "Vcu",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Vcu.png"
+  },
+  {
+    "id": "ncaa-teams-vermont",
+    "name": "Vermont",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Vermont.png"
+  },
+  {
+    "id": "ncaa-teams-villanova",
+    "name": "Villanova",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Villanova.png"
+  },
+  {
+    "id": "ncaa-teams-virginia",
+    "name": "Virginia",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Virginia.png"
+  },
+  {
+    "id": "ncaa-teams-virginia-wht",
+    "name": "Virginia Wht",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Virginia Wht.png"
+  },
+  {
+    "id": "ncaa-teams-virginia-tech",
+    "name": "Virginia-Tech",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Virginia-Tech.png"
+  },
+  {
+    "id": "ncaa-teams-wagner",
+    "name": "Wagner",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Wagner.png"
+  },
+  {
+    "id": "ncaa-teams-wake-forest",
+    "name": "Wake-Forest",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Wake-Forest.png"
+  },
+  {
+    "id": "ncaa-teams-wake-forest-yell",
+    "name": "Wake-Forest Yell",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Wake-Forest Yell.png"
+  },
+  {
+    "id": "ncaa-teams-washington",
+    "name": "Washington",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Washington.png"
+  },
+  {
+    "id": "ncaa-teams-washington-st",
+    "name": "Washington-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Washington-St.png"
+  },
+  {
+    "id": "ncaa-teams-weber-st",
+    "name": "Weber-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Weber-St.png"
+  },
+  {
+    "id": "ncaa-teams-west-virginia",
+    "name": "West-Virginia",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/West-Virginia.png"
+  },
+  {
+    "id": "ncaa-teams-western-ky",
+    "name": "Western-Ky",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Western-Ky.png"
+  },
+  {
+    "id": "ncaa-teams-western-mich",
+    "name": "Western-Mich",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Western-Mich.png"
+  },
+  {
+    "id": "ncaa-teams-wichita-st",
+    "name": "Wichita-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Wichita-St.png"
+  },
+  {
+    "id": "ncaa-teams-wisconsin",
+    "name": "Wisconsin",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Wisconsin.png"
+  },
+  {
+    "id": "ncaa-teams-wright-st",
+    "name": "Wright-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Wright-St.png"
+  },
+  {
+    "id": "ncaa-teams-wyoming",
+    "name": "Wyoming",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Wyoming.png"
+  },
+  {
+    "id": "ncaa-teams-xavier",
+    "name": "Xavier",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Xavier.png"
+  },
+  {
+    "id": "ncaa-teams-yale",
+    "name": "Yale",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Yale.png"
+  },
+  {
+    "id": "ncaa-teams-youngstown-st",
+    "name": "Youngstown-St",
+    "sport": "NCAA",
+    "sub": "Teams",
+    "file": "logos/NCAA/Teams/Youngstown-St.png"
+  },
+  {
+    "id": "nfl-alt-new-york-giants",
+    "name": "Alt New York Giants",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Alt New York Giants.png"
+  },
+  {
+    "id": "nfl-arizona-cardinals",
+    "name": "Arizona Cardinals",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Arizona Cardinals.png"
+  },
+  {
+    "id": "nfl-atlanta-falcons",
+    "name": "Atlanta Falcons",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Atlanta Falcons.png"
+  },
+  {
+    "id": "nfl-baltimore-ravens",
+    "name": "Baltimore Ravens",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Baltimore Ravens.png"
+  },
+  {
+    "id": "nfl-buffalo-bills",
+    "name": "Buffalo Bills",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Buffalo Bills.png"
+  },
+  {
+    "id": "nfl-carolina-panthers",
+    "name": "Carolina Panthers",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Carolina Panthers.png"
+  },
+  {
+    "id": "nfl-chicago-bears",
+    "name": "Chicago Bears",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Chicago Bears.png"
+  },
+  {
+    "id": "nfl-chicago-bears-2",
+    "name": "Chicago Bears 2",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Chicago Bears 2.png"
+  },
+  {
+    "id": "nfl-cincinnati-bengals",
+    "name": "Cincinnati Bengals",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Cincinnati Bengals.png"
+  },
+  {
+    "id": "nfl-cleveland-browns",
+    "name": "Cleveland Browns",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Cleveland Browns.png"
+  },
+  {
+    "id": "nfl-dallas-cowboys",
+    "name": "Dallas Cowboys",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Dallas Cowboys.png"
+  },
+  {
+    "id": "nfl-denver-broncos",
+    "name": "Denver Broncos",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Denver Broncos.png"
+  },
+  {
+    "id": "nfl-detroit-lions",
+    "name": "Detroit Lions",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Detroit Lions.png"
+  },
+  {
+    "id": "nfl-green-bay-packers",
+    "name": "Green Bay Packers",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Green Bay Packers.png"
+  },
+  {
+    "id": "nfl-houston-texans",
+    "name": "Houston Texans",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Houston Texans.png"
+  },
+  {
+    "id": "nfl-indianapolis-colts",
+    "name": "Indianapolis Colts",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Indianapolis Colts.png"
+  },
+  {
+    "id": "nfl-jacksonville-jaguars",
+    "name": "Jacksonville Jaguars",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Jacksonville Jaguars.png"
+  },
+  {
+    "id": "nfl-kansas-city-chiefs",
+    "name": "Kansas City Chiefs",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Kansas City Chiefs.png"
+  },
+  {
+    "id": "nfl-las-vegas-raiders",
+    "name": "Las Vegas Raiders",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Las Vegas Raiders.png"
+  },
+  {
+    "id": "nfl-los-angeles-chargers",
+    "name": "Los Angeles Chargers",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Los Angeles Chargers.png"
+  },
+  {
+    "id": "nfl-los-angeles-rams",
+    "name": "Los Angeles Rams",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Los Angeles Rams.png"
+  },
+  {
+    "id": "nfl-miami-dolphins",
+    "name": "Miami Dolphins",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Miami Dolphins.png"
+  },
+  {
+    "id": "nfl-minnesota-vikings",
+    "name": "Minnesota Vikings",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Minnesota Vikings.png"
+  },
+  {
+    "id": "nfl-new-england-patriots",
+    "name": "New England Patriots",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/New England Patriots.png"
+  },
+  {
+    "id": "nfl-new-orleans-saints",
+    "name": "New Orleans Saints",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/New Orleans Saints.png"
+  },
+  {
+    "id": "nfl-new-york-giants",
+    "name": "New York Giants",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/New York Giants.png"
+  },
+  {
+    "id": "nfl-ny-jets",
+    "name": "Ny Jets",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Ny Jets.png"
+  },
+  {
+    "id": "nfl-philadelphia-eagles",
+    "name": "Philadelphia Eagles",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Philadelphia Eagles.png"
+  },
+  {
+    "id": "nfl-pittsburgh-steelers",
+    "name": "Pittsburgh Steelers",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Pittsburgh Steelers.png"
+  },
+  {
+    "id": "nfl-san-francisco-49ers",
+    "name": "San Francisco 49Ers",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/San Francisco 49Ers.png"
+  },
+  {
+    "id": "nfl-seattle-seahawks",
+    "name": "Seattle Seahawks",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Seattle Seahawks.png"
+  },
+  {
+    "id": "nfl-tampa-bay-buccaneers",
+    "name": "Tampa Bay Buccaneers",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Tampa Bay Buccaneers.png"
+  },
+  {
+    "id": "nfl-tennessee-titans",
+    "name": "Tennessee Titans",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Tennessee Titans.png"
+  },
+  {
+    "id": "nfl-washington-commanders",
+    "name": "Washington Commanders",
+    "sport": "NFL",
+    "sub": "",
+    "file": "logos/NFL/Washington Commanders.png"
+  },
+  {
+    "id": "nhl-anaheim-ducks",
+    "name": "Anaheim Ducks",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Anaheim Ducks.png"
+  },
+  {
+    "id": "nhl-boston-bruins",
+    "name": "Boston Bruins",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Boston Bruins.png"
+  },
+  {
+    "id": "nhl-buffalo-sabres",
+    "name": "Buffalo Sabres",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Buffalo Sabres.png"
+  },
+  {
+    "id": "nhl-calgary-flames",
+    "name": "Calgary Flames",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Calgary Flames.png"
+  },
+  {
+    "id": "nhl-carolina-hurricanes",
+    "name": "Carolina Hurricanes",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Carolina Hurricanes.png"
+  },
+  {
+    "id": "nhl-chicago-black-hawks",
+    "name": "Chicago Black Hawks",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Chicago Black Hawks.png"
+  },
+  {
+    "id": "nhl-colorado-avalanche",
+    "name": "Colorado Avalanche",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Colorado Avalanche.png"
+  },
+  {
+    "id": "nhl-columbus-blue-jackets",
+    "name": "Columbus Blue Jackets",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Columbus Blue Jackets.png"
+  },
+  {
+    "id": "nhl-dallas-stars",
+    "name": "Dallas Stars",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Dallas Stars.png"
+  },
+  {
+    "id": "nhl-detroit-red-wings",
+    "name": "Detroit Red Wings",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Detroit Red Wings.png"
+  },
+  {
+    "id": "nhl-edmonton-oilers",
+    "name": "Edmonton Oilers",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Edmonton Oilers.png"
+  },
+  {
+    "id": "nhl-florida-panthers",
+    "name": "Florida Panthers",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Florida Panthers.png"
+  },
+  {
+    "id": "nhl-los-angeles-kings",
+    "name": "Los Angeles Kings",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Los Angeles Kings.png"
+  },
+  {
+    "id": "nhl-minnesota-wild",
+    "name": "Minnesota Wild",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Minnesota Wild.png"
+  },
+  {
+    "id": "nhl-montreal-canadiens",
+    "name": "Montreal Canadiens",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Montreal Canadiens.png"
+  },
+  {
+    "id": "nhl-nashville-predators",
+    "name": "Nashville Predators",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Nashville Predators.png"
+  },
+  {
+    "id": "nhl-new-jersey-devils",
+    "name": "New Jersey Devils",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/New Jersey Devils.png"
+  },
+  {
+    "id": "nhl-new-york-islanders",
+    "name": "New York Islanders",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/New York Islanders.png"
+  },
+  {
+    "id": "nhl-new-york-rangers",
+    "name": "New York Rangers",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/New York Rangers.png"
+  },
+  {
+    "id": "nhl-ottawa-senators",
+    "name": "Ottawa Senators",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Ottawa Senators.png"
+  },
+  {
+    "id": "nhl-philadelphia-flyers",
+    "name": "Philadelphia Flyers",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Philadelphia Flyers.png"
+  },
+  {
+    "id": "nhl-pittsburgh-penguins",
+    "name": "Pittsburgh Penguins",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Pittsburgh Penguins.png"
+  },
+  {
+    "id": "nhl-saint-louis-blues",
+    "name": "Saint Louis Blues",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Saint Louis Blues.png"
+  },
+  {
+    "id": "nhl-sanjosesharkslogo",
+    "name": "Sanjosesharkslogo",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Sanjosesharkslogo.png"
+  },
+  {
+    "id": "nhl-seattle-kraken",
+    "name": "Seattle Kraken",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Seattle Kraken.png"
+  },
+  {
+    "id": "nhl-tampa-bay-lightning",
+    "name": "Tampa Bay Lightning",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Tampa Bay Lightning.png"
+  },
+  {
+    "id": "nhl-toronto-maple-leafs",
+    "name": "Toronto Maple Leafs",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Toronto Maple Leafs.png"
+  },
+  {
+    "id": "nhl-utah",
+    "name": "Utah",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Utah.png"
+  },
+  {
+    "id": "nhl-vancouver-canucks",
+    "name": "Vancouver Canucks",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Vancouver Canucks.png"
+  },
+  {
+    "id": "nhl-vegas-golden-knights",
+    "name": "Vegas Golden Knights",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Vegas Golden Knights.png"
+  },
+  {
+    "id": "nhl-washington-capitals",
+    "name": "Washington Capitals",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Washington Capitals.png"
+  },
+  {
+    "id": "nhl-winnipeg-jets",
+    "name": "Winnipeg Jets",
+    "sport": "NHL",
+    "sub": "",
+    "file": "logos/NHL/Winnipeg Jets.png"
+  },
+  {
+    "id": "network-accn",
+    "name": "Accn",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Accn.png"
+  },
+  {
+    "id": "network-altitude-sports",
+    "name": "Altitude Sports",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Altitude Sports.png"
+  },
+  {
+    "id": "network-b1g-network",
+    "name": "B1G Network",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/B1G Network.png"
+  },
+  {
+    "id": "network-bein-sports",
+    "name": "Bein Sports",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Bein Sports.png"
+  },
+  {
+    "id": "network-bein-sports-n",
+    "name": "Bein Sports Ñ",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Bein Sports Ñ.png"
+  },
+  {
+    "id": "network-cbs-sports-network",
+    "name": "CBS Sports Network",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/CBS Sports Network.png"
+  },
+  {
+    "id": "network-chsn",
+    "name": "CHSN",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/CHSN.png"
+  },
+  {
+    "id": "network-dazn",
+    "name": "DAZN",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/DAZN.png"
+  },
+  {
+    "id": "network-dp-world-tour",
+    "name": "DP World Tour",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/DP World Tour.png"
+  },
+  {
+    "id": "network-espn",
+    "name": "ESPN",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/ESPN.png"
+  },
+  {
+    "id": "network-espn-2",
+    "name": "ESPN 2",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/ESPN 2.png"
+  },
+  {
+    "id": "network-espn-deportes",
+    "name": "ESPN Deportes",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/ESPN Deportes.png"
+  },
+  {
+    "id": "network-espn-u",
+    "name": "ESPN U",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/ESPN U.png"
+  },
+  {
+    "id": "network-espn",
+    "name": "ESPN+",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/ESPN+.png"
+  },
+  {
+    "id": "network-fs1",
+    "name": "FS1",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/FS1.png"
+  },
+  {
+    "id": "network-fs2",
+    "name": "FS2",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/FS2.png"
+  },
+  {
+    "id": "network-fuel-tv",
+    "name": "FUEL TV",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/FUEL TV.png"
+  },
+  {
+    "id": "network-fanduel-sports",
+    "name": "Fanduel Sports",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Fanduel Sports.png"
+  },
+  {
+    "id": "network-fight-network",
+    "name": "Fight Network",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Fight Network.png"
+  },
+  {
+    "id": "network-fox-deportes",
+    "name": "Fox Deportes",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Fox Deportes.png"
+  },
+  {
+    "id": "network-fox-soccer-plus",
+    "name": "Fox Soccer Plus",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Fox Soccer Plus.png"
+  },
+  {
+    "id": "network-fubo-sports",
+    "name": "Fubo Sports",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Fubo Sports.png"
+  },
+  {
+    "id": "network-glory",
+    "name": "Glory",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Glory.png"
+  },
+  {
+    "id": "network-golf-pass",
+    "name": "Golf pass",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Golf pass.png"
+  },
+  {
+    "id": "network-golftv",
+    "name": "GolfTV",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/GolfTV.png"
+  },
+  {
+    "id": "network-golftv-spanish",
+    "name": "GolfTV Spanish",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/GolfTV Spanish.png"
+  },
+  {
+    "id": "network-mlb-network",
+    "name": "MLB Network",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/MLB Network.png"
+  },
+  {
+    "id": "network-mlb-tv",
+    "name": "MLB.TV",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/MLB.TV.png"
+  },
+  {
+    "id": "network-msg",
+    "name": "MSG",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/MSG.png"
+  },
+  {
+    "id": "network-marquee-sports",
+    "name": "Marquee Sports",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Marquee Sports.png"
+  },
+  {
+    "id": "network-mash",
+    "name": "Mash",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Mash.png"
+  },
+  {
+    "id": "network-mash",
+    "name": "Mash+",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Mash+.png"
+  },
+  {
+    "id": "network-nba-league-pass",
+    "name": "NBA League Pass",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/NBA League Pass.png"
+  },
+  {
+    "id": "network-nba-tv",
+    "name": "NBA TV",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/NBA TV.png"
+  },
+  {
+    "id": "network-nesn",
+    "name": "NESN",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/NESN.png"
+  },
+  {
+    "id": "network-nfl-network",
+    "name": "NFL Network",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/NFL Network.png"
+  },
+  {
+    "id": "network-nhl-network",
+    "name": "NHL Network",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/NHL Network.png"
+  },
+  {
+    "id": "network-nuestra-tele",
+    "name": "Nuestra Tele",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Nuestra Tele.png"
+  },
+  {
+    "id": "network-one-soccer",
+    "name": "One Soccer",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/One Soccer.png"
+  },
+  {
+    "id": "network-peacock-bay-area",
+    "name": "Peacock Bay Area",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Peacock Bay Area.png"
+  },
+  {
+    "id": "network-peacock-golf",
+    "name": "Peacock Golf",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Peacock Golf.png"
+  },
+  {
+    "id": "network-peacock-sports",
+    "name": "Peacock Sports",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Peacock Sports.png"
+  },
+  {
+    "id": "network-peacock-sports-boston",
+    "name": "Peacock Sports Boston",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Peacock Sports Boston.png"
+  },
+  {
+    "id": "network-peacock-sports-california",
+    "name": "Peacock Sports California",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Peacock Sports California.png"
+  },
+  {
+    "id": "network-peacock-sports-philadelphia",
+    "name": "Peacock Sports Philadelphia",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Peacock Sports Philadelphia.png"
+  },
+  {
+    "id": "network-premier-league",
+    "name": "Premier League",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Premier League.png"
+  },
+  {
+    "id": "network-racing-america",
+    "name": "Racing America",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Racing America.png"
+  },
+  {
+    "id": "network-rangers-sports-network",
+    "name": "Rangers Sports Network",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Rangers Sports Network.png"
+  },
+  {
+    "id": "network-red-zone",
+    "name": "Red Zone",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Red Zone.png"
+  },
+  {
+    "id": "network-rm-tv",
+    "name": "Rm.tv",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Rm.tv.png"
+  },
+  {
+    "id": "network-root-sports",
+    "name": "Root Sports",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Root Sports.png"
+  },
+  {
+    "id": "network-sec-espn-network",
+    "name": "SEC ESPN Network",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/SEC ESPN Network.png"
+  },
+  {
+    "id": "network-space-city",
+    "name": "Space City",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Space City.png"
+  },
+  {
+    "id": "network-speedvision",
+    "name": "Speedvision",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Speedvision.png"
+  },
+  {
+    "id": "network-sports-grid",
+    "name": "Sports Grid",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Sports Grid.png"
+  },
+  {
+    "id": "network-sportsnet-pittsburgh",
+    "name": "SportsNet Pittsburgh",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/SportsNet Pittsburgh.png"
+  },
+  {
+    "id": "network-sportsman-channel",
+    "name": "Sportsman Channel",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Sportsman Channel.png"
+  },
+  {
+    "id": "network-stadium",
+    "name": "Stadium",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Stadium.png"
+  },
+  {
+    "id": "network-strike-zone",
+    "name": "Strike Zone",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Strike Zone.png"
+  },
+  {
+    "id": "network-tna-wrestling",
+    "name": "TNA Wrestling",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/TNA Wrestling.png"
+  },
+  {
+    "id": "network-telemundo",
+    "name": "Telemundo",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Telemundo.png"
+  },
+  {
+    "id": "network-tennis-channel",
+    "name": "Tennis Channel",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Tennis Channel.png"
+  },
+  {
+    "id": "network-tyc-sports",
+    "name": "TyC Sports",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/TyC Sports.png"
+  },
+  {
+    "id": "network-universo",
+    "name": "Universo",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Universo.png"
+  },
+  {
+    "id": "network-wsn-women-s-sports-network",
+    "name": "WSN Women's Sports Network",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/WSN Women's Sports Network.png"
+  },
+  {
+    "id": "network-willow",
+    "name": "Willow",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Willow.png"
+  },
+  {
+    "id": "network-willow-xtra",
+    "name": "Willow Xtra",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Willow Xtra.png"
+  },
+  {
+    "id": "network-world-fishing-network",
+    "name": "World Fishing Network",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/World Fishing Network.png"
+  },
+  {
+    "id": "network-yes",
+    "name": "Yes",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Yes.png"
+  },
+  {
+    "id": "network-z-tv",
+    "name": "Z TV",
+    "sport": "Network",
+    "sub": "",
+    "file": "logos/Network/Z TV.png"
+  },
+  {
+    "id": "soccer-brasileir-o-corinthians",
+    "name": "Corinthians",
+    "sport": "Soccer",
+    "sub": "Brasileirão",
+    "file": "logos/Soccer/Teams/Brazil/Corinthians.png"
+  },
+  {
+    "id": "soccer-brasileir-o-flamengo",
+    "name": "Flamengo",
+    "sport": "Soccer",
+    "sub": "Brasileirão",
+    "file": "logos/Soccer/Teams/Brazil/Flamengo.png"
+  },
+  {
+    "id": "soccer-brasileir-o-fluminense",
+    "name": "Fluminense",
+    "sport": "Soccer",
+    "sub": "Brasileirão",
+    "file": "logos/Soccer/Teams/Brazil/Fluminense.png"
+  },
+  {
+    "id": "soccer-brasileir-o-internacional",
+    "name": "Internacional",
+    "sport": "Soccer",
+    "sub": "Brasileirão",
+    "file": "logos/Soccer/Teams/Brazil/Internacional.png"
+  },
+  {
+    "id": "soccer-brasileir-o-palmeiras",
+    "name": "Palmeiras",
+    "sport": "Soccer",
+    "sub": "Brasileirão",
+    "file": "logos/Soccer/Teams/Brazil/Palmeiras.png"
+  },
+  {
+    "id": "soccer-brasileir-o-paranaense-black",
+    "name": "Paranaense_Black",
+    "sport": "Soccer",
+    "sub": "Brasileirão",
+    "file": "logos/Soccer/Teams/Brazil/Paranaense_Black.png"
+  },
+  {
+    "id": "soccer-brasileir-o-santos",
+    "name": "Santos",
+    "sport": "Soccer",
+    "sub": "Brasileirão",
+    "file": "logos/Soccer/Teams/Brazil/Santos.png"
+  },
+  {
+    "id": "soccer-brasileir-o-sao-paulo",
+    "name": "Sao_Paulo",
+    "sport": "Soccer",
+    "sub": "Brasileirão",
+    "file": "logos/Soccer/Teams/Brazil/Sao_Paulo.png"
+  },
+  {
+    "id": "soccer-bundesliga-augsburg",
+    "name": "Augsburg",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Augsburg.png"
+  },
+  {
+    "id": "soccer-bundesliga-bayer-04-leverkusen",
+    "name": "Bayer_04_Leverkusen_",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Bayer_04_Leverkusen_.png"
+  },
+  {
+    "id": "soccer-bundesliga-bayern",
+    "name": "Bayern",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Bayern.png"
+  },
+  {
+    "id": "soccer-bundesliga-borussia-dortmund",
+    "name": "Borussia_Dortmund",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Borussia_Dortmund.png"
+  },
+  {
+    "id": "soccer-bundesliga-borussia-mo-nchengladbach",
+    "name": "Borussia_Mönchengladbach",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Borussia_Mönchengladbach.png"
+  },
+  {
+    "id": "soccer-bundesliga-cologne",
+    "name": "Cologne",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Cologne.png"
+  },
+  {
+    "id": "soccer-bundesliga-darmstadt-98",
+    "name": "Darmstadt_98",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Darmstadt_98.png"
+  },
+  {
+    "id": "soccer-bundesliga-eintracht-frankfurt",
+    "name": "Eintracht_Frankfurt",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Eintracht_Frankfurt.png"
+  },
+  {
+    "id": "soccer-bundesliga-freiburg",
+    "name": "Freiburg",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Freiburg.png"
+  },
+  {
+    "id": "soccer-bundesliga-hsv",
+    "name": "HSV",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/HSV.png"
+  },
+  {
+    "id": "soccer-bundesliga-heidenheim-1846-1",
+    "name": "Heidenheim_1846 1",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Heidenheim_1846 1.png"
+  },
+  {
+    "id": "soccer-bundesliga-hertha-bsc",
+    "name": "Hertha_BSC",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Hertha_BSC.png"
+  },
+  {
+    "id": "soccer-bundesliga-hoffenheim",
+    "name": "Hoffenheim",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Hoffenheim.png"
+  },
+  {
+    "id": "soccer-bundesliga-leipzig",
+    "name": "Leipzig",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Leipzig.png"
+  },
+  {
+    "id": "soccer-bundesliga-mainz-05",
+    "name": "Mainz_05",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Mainz_05.png"
+  },
+  {
+    "id": "soccer-bundesliga-schalke-04",
+    "name": "Schalke_04",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Schalke_04.png"
+  },
+  {
+    "id": "soccer-bundesliga-stuttgart-1893",
+    "name": "Stuttgart_1893",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Stuttgart_1893.png"
+  },
+  {
+    "id": "soccer-bundesliga-union-berlin",
+    "name": "Union_Berlin",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Union_Berlin.png"
+  },
+  {
+    "id": "soccer-bundesliga-vfl-bochum",
+    "name": "VfL_Bochum",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/VfL_Bochum.png"
+  },
+  {
+    "id": "soccer-bundesliga-werder-bremen",
+    "name": "Werder-Bremen",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Werder-Bremen.png"
+  },
+  {
+    "id": "soccer-bundesliga-wolfsburg-green",
+    "name": "Wolfsburg_green",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Wolfsburg_green.png"
+  },
+  {
+    "id": "soccer-bundesliga-wolfsburg-white",
+    "name": "Wolfsburg_white",
+    "sport": "Soccer",
+    "sub": "Bundesliga",
+    "file": "logos/Soccer/Teams/Germany/Wolfsburg_white.png"
+  },
+  {
+    "id": "soccer-cpl-atle-tico-ottawa",
+    "name": "Atlético_Ottawa",
+    "sport": "Soccer",
+    "sub": "CPL",
+    "file": "logos/Soccer/Teams/Canada/Atlético_Ottawa.png"
+  },
+  {
+    "id": "soccer-cpl-cavalry-fc",
+    "name": "Cavalry_FC",
+    "sport": "Soccer",
+    "sub": "CPL",
+    "file": "logos/Soccer/Teams/Canada/Cavalry_FC.png"
+  },
+  {
+    "id": "soccer-cpl-forge-fc",
+    "name": "Forge_FC",
+    "sport": "Soccer",
+    "sub": "CPL",
+    "file": "logos/Soccer/Teams/Canada/Forge_FC.png"
+  },
+  {
+    "id": "soccer-cpl-hfx-wanderers",
+    "name": "HFX_Wanderers",
+    "sport": "Soccer",
+    "sub": "CPL",
+    "file": "logos/Soccer/Teams/Canada/HFX_Wanderers.png"
+  },
+  {
+    "id": "soccer-cpl-pacific-fc",
+    "name": "Pacific_FC",
+    "sport": "Soccer",
+    "sub": "CPL",
+    "file": "logos/Soccer/Teams/Canada/Pacific_FC.png"
+  },
+  {
+    "id": "soccer-cpl-valour-fc",
+    "name": "Valour_FC",
+    "sport": "Soccer",
+    "sub": "CPL",
+    "file": "logos/Soccer/Teams/Canada/Valour_FC.png"
+  },
+  {
+    "id": "soccer-cpl-vancouver-fc",
+    "name": "Vancouver FC",
+    "sport": "Soccer",
+    "sub": "CPL",
+    "file": "logos/Soccer/Teams/Canada/Vancouver FC.png"
+  },
+  {
+    "id": "soccer-cpl-york-united",
+    "name": "York_United",
+    "sport": "Soccer",
+    "sub": "CPL",
+    "file": "logos/Soccer/Teams/Canada/York_United.png"
+  },
+  {
+    "id": "soccer-epl-arsenal-fc-1",
+    "name": "Arsenal_FC 1",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Arsenal_FC 1.png"
+  },
+  {
+    "id": "soccer-epl-aston-villa",
+    "name": "Aston Villa",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Aston Villa.png"
+  },
+  {
+    "id": "soccer-epl-bournemouth",
+    "name": "Bournemouth",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Bournemouth.png"
+  },
+  {
+    "id": "soccer-epl-brentford-fc",
+    "name": "Brentford_FC",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Brentford_FC.png"
+  },
+  {
+    "id": "soccer-epl-brighton-hove-albion",
+    "name": "Brighton_&_Hove_Albion",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Brighton_&_Hove_Albion.png"
+  },
+  {
+    "id": "soccer-epl-burnley",
+    "name": "Burnley",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Burnley.png"
+  },
+  {
+    "id": "soccer-epl-chelsea",
+    "name": "Chelsea",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Chelsea.png"
+  },
+  {
+    "id": "soccer-epl-crystal-palace",
+    "name": "Crystal_Palace",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Crystal_Palace.png"
+  },
+  {
+    "id": "soccer-epl-everton-fc",
+    "name": "Everton_FC",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Everton_FC.png"
+  },
+  {
+    "id": "soccer-epl-fulham-fc",
+    "name": "Fulham_FC",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Fulham_FC.png"
+  },
+  {
+    "id": "soccer-epl-ipswich",
+    "name": "Ipswich",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Ipswich.png"
+  },
+  {
+    "id": "soccer-epl-leeds-united-f-c",
+    "name": "Leeds_United_F.C",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Leeds_United_F.C.png"
+  },
+  {
+    "id": "soccer-epl-leicester-city",
+    "name": "Leicester_City",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Leicester_City.png"
+  },
+  {
+    "id": "soccer-epl-liverpool",
+    "name": "Liverpool",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Liverpool.png"
+  },
+  {
+    "id": "soccer-epl-logo-luton-town-2009-fc",
+    "name": "Logo_Luton_Town_2009_FC",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Logo_Luton_Town_2009_FC.png"
+  },
+  {
+    "id": "soccer-epl-manchester-city-fc",
+    "name": "Manchester_City_FC",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Manchester_City_FC.png"
+  },
+  {
+    "id": "soccer-epl-manchester-united-fc",
+    "name": "Manchester_United_FC",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Manchester_United_FC.png"
+  },
+  {
+    "id": "soccer-epl-middlesbrough-fc",
+    "name": "Middlesbrough_FC",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Middlesbrough_FC.png"
+  },
+  {
+    "id": "soccer-epl-newcastle-united",
+    "name": "Newcastle_United",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Newcastle_United.png"
+  },
+  {
+    "id": "soccer-epl-nottingham-forest-f-c",
+    "name": "Nottingham_Forest_F.C.",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Nottingham_Forest_F.C..png"
+  },
+  {
+    "id": "soccer-epl-sheffield-united-fc-logo",
+    "name": "Sheffield_United_FC_logo",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Sheffield_United_FC_logo.png"
+  },
+  {
+    "id": "soccer-epl-southampton",
+    "name": "Southampton",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Southampton.png"
+  },
+  {
+    "id": "soccer-epl-stoke-city",
+    "name": "Stoke_City",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Stoke_City.png"
+  },
+  {
+    "id": "soccer-epl-sunderland",
+    "name": "Sunderland",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Sunderland.png"
+  },
+  {
+    "id": "soccer-epl-tottenham-new-white",
+    "name": "Tottenham New White",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Tottenham New White.png"
+  },
+  {
+    "id": "soccer-epl-tottenham-hotspur",
+    "name": "Tottenham_Hotspur",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Tottenham_Hotspur.png"
+  },
+  {
+    "id": "soccer-epl-watford",
+    "name": "Watford",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Watford.png"
+  },
+  {
+    "id": "soccer-epl-west-ham",
+    "name": "West Ham",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/West Ham.png"
+  },
+  {
+    "id": "soccer-epl-west-bromwich-albion",
+    "name": "West_Bromwich_Albion",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/West_Bromwich_Albion.png"
+  },
+  {
+    "id": "soccer-epl-wolverhampton",
+    "name": "Wolverhampton",
+    "sport": "Soccer",
+    "sub": "EPL",
+    "file": "logos/Soccer/Teams/England/Wolverhampton.png"
+  },
+  {
+    "id": "soccer-eredivisie-az-alkmaar-1",
+    "name": "AZ_Alkmaar 1",
+    "sport": "Soccer",
+    "sub": "Eredivisie",
+    "file": "logos/Soccer/Teams/Netherlands/AZ_Alkmaar 1.png"
+  },
+  {
+    "id": "soccer-eredivisie-ajax",
+    "name": "Ajax",
+    "sport": "Soccer",
+    "sub": "Eredivisie",
+    "file": "logos/Soccer/Teams/Netherlands/Ajax.png"
+  },
+  {
+    "id": "soccer-eredivisie-feyenoord-logo-1",
+    "name": "Feyenoord_logo 1",
+    "sport": "Soccer",
+    "sub": "Eredivisie",
+    "file": "logos/Soccer/Teams/Netherlands/Feyenoord_logo 1.png"
+  },
+  {
+    "id": "soccer-eredivisie-psv-eindhoven-1",
+    "name": "PSV_Eindhoven 1",
+    "sport": "Soccer",
+    "sub": "Eredivisie",
+    "file": "logos/Soccer/Teams/Netherlands/PSV_Eindhoven 1.png"
+  },
+  {
+    "id": "soccer-eredivisie-sc-heerenveen-logo-1",
+    "name": "SC_Heerenveen_logo 1",
+    "sport": "Soccer",
+    "sub": "Eredivisie",
+    "file": "logos/Soccer/Teams/Netherlands/SC_Heerenveen_logo 1.png"
+  },
+  {
+    "id": "soccer-la-liga-almeria",
+    "name": "Almeria",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Almeria.png"
+  },
+  {
+    "id": "soccer-la-liga-athletic-bilbao",
+    "name": "Athletic_Bilbao",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Athletic_Bilbao.png"
+  },
+  {
+    "id": "soccer-la-liga-atletico-madrid",
+    "name": "Atletico Madrid",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Atletico Madrid.png"
+  },
+  {
+    "id": "soccer-la-liga-barcelona",
+    "name": "Barcelona",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Barcelona.png"
+  },
+  {
+    "id": "soccer-la-liga-ca-diz-cf",
+    "name": "Cádiz_CF",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Cádiz_CF.png"
+  },
+  {
+    "id": "soccer-la-liga-deportivo-alaves-logo-2020",
+    "name": "Deportivo_Alaves_logo_(2020)",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Deportivo_Alaves_logo_(2020).png"
+  },
+  {
+    "id": "soccer-la-liga-elche-cf",
+    "name": "Elche_CF",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Elche_CF.png"
+  },
+  {
+    "id": "soccer-la-liga-espanyol",
+    "name": "Espanyol",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Espanyol.png"
+  },
+  {
+    "id": "soccer-la-liga-getafe",
+    "name": "Getafe",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Getafe.png"
+  },
+  {
+    "id": "soccer-la-liga-girona",
+    "name": "Girona",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Girona.png"
+  },
+  {
+    "id": "soccer-la-liga-levante-unio-n-deportiva-s-a-d-logo",
+    "name": "Levante_Unión_Deportiva,_S.A.D._logo",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Levante_Unión_Deportiva,_S.A.D._logo.png"
+  },
+  {
+    "id": "soccer-la-liga-logo-of-granada-club-de-fu-tbol-1",
+    "name": "Logo_of_Granada_Club_de_Fútbol 1",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Logo_of_Granada_Club_de_Fútbol 1.png"
+  },
+  {
+    "id": "soccer-la-liga-mallorca",
+    "name": "Mallorca",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Mallorca.png"
+  },
+  {
+    "id": "soccer-la-liga-osasuna",
+    "name": "Osasuna",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Osasuna.png"
+  },
+  {
+    "id": "soccer-la-liga-rc-celta-de-vigo",
+    "name": "RC_Celta_de_Vigo",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/RC_Celta_de_Vigo.png"
+  },
+  {
+    "id": "soccer-la-liga-rayo-vallecano",
+    "name": "Rayo-Vallecano",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Rayo-Vallecano.png"
+  },
+  {
+    "id": "soccer-la-liga-real-betis",
+    "name": "Real Betis",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Real Betis.png"
+  },
+  {
+    "id": "soccer-la-liga-real-madrid",
+    "name": "Real Madrid",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Real Madrid.png"
+  },
+  {
+    "id": "soccer-la-liga-real-sociedad",
+    "name": "Real_Sociedad",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Real_Sociedad.png"
+  },
+  {
+    "id": "soccer-la-liga-real-valladolid",
+    "name": "Real_Valladolid",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Real_Valladolid.png"
+  },
+  {
+    "id": "soccer-la-liga-sd-eibar-logo-2016",
+    "name": "SD_Eibar_logo_2016",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/SD_Eibar_logo_2016.png"
+  },
+  {
+    "id": "soccer-la-liga-sevilla-fc",
+    "name": "Sevilla_FC",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Sevilla_FC.png"
+  },
+  {
+    "id": "soccer-la-liga-ud-las-palmas-logo",
+    "name": "UD_Las_Palmas_logo",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/UD_Las_Palmas_logo.png"
+  },
+  {
+    "id": "soccer-la-liga-valencia",
+    "name": "Valencia",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Valencia.png"
+  },
+  {
+    "id": "soccer-la-liga-villarreal-cf",
+    "name": "Villarreal_CF",
+    "sport": "Soccer",
+    "sub": "La Liga",
+    "file": "logos/Soccer/Teams/Spain/Villarreal_CF.png"
+  },
+  {
+    "id": "soccer-leagues-afa-argentina",
+    "name": "AFA-Argentina",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/AFA-Argentina.png"
+  },
+  {
+    "id": "soccer-leagues-betplay-dimayor",
+    "name": "BetPlay-Dimayor",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/BetPlay-Dimayor.png"
+  },
+  {
+    "id": "soccer-leagues-bundesliga",
+    "name": "Bundesliga",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/Bundesliga.png"
+  },
+  {
+    "id": "soccer-leagues-concacaf-champions-cup",
+    "name": "CONCACAF_Champions_Cup",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/CONCACAF_Champions_Cup.png"
+  },
+  {
+    "id": "soccer-leagues-conmebol-libertadores",
+    "name": "CONMEBOL_Libertadores",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/CONMEBOL_Libertadores.png"
+  },
+  {
+    "id": "soccer-leagues-conmebol-sudamericana",
+    "name": "CONMEBOL_Sudamericana",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/CONMEBOL_Sudamericana.png"
+  },
+  {
+    "id": "soccer-leagues-campeon-de-campeones",
+    "name": "Campeon_de_Campeones",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/Campeon_de_Campeones.png"
+  },
+  {
+    "id": "soccer-leagues-concacaf-caribbean-cup",
+    "name": "Concacaf_Caribbean_Cup",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/Concacaf_Caribbean_Cup.png"
+  },
+  {
+    "id": "soccer-leagues-concacaf-central-american-cup",
+    "name": "Concacaf_Central_American_Cup",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/Concacaf_Central_American_Cup.png"
+  },
+  {
+    "id": "soccer-leagues-copa-del-rey",
+    "name": "Copa_del_Rey",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/Copa_del_Rey.png"
+  },
+  {
+    "id": "soccer-leagues-coppa-italia",
+    "name": "Coppa_Italia",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/Coppa_Italia.png"
+  },
+  {
+    "id": "soccer-leagues-group",
+    "name": "Group",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/Group.png"
+  },
+  {
+    "id": "soccer-leagues-laliga",
+    "name": "LaLiga",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/LaLiga.png"
+  },
+  {
+    "id": "soccer-leagues-liga-portugal",
+    "name": "Liga Portugal",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/Liga Portugal.png"
+  },
+  {
+    "id": "soccer-leagues-liga-mx",
+    "name": "Liga_MX",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/Liga_MX.png"
+  },
+  {
+    "id": "soccer-leagues-ligue-1",
+    "name": "Ligue_1",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/Ligue_1.png"
+  },
+  {
+    "id": "soccer-leagues-logo-coupe-de-france-football-fff",
+    "name": "Logo_Coupe_de_France_Football_FFF",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/Logo_Coupe_de_France_Football_FFF.png"
+  },
+  {
+    "id": "soccer-leagues-mls-cup-logo-1",
+    "name": "MLS_Cup_logo 1",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/MLS_Cup_logo 1.png"
+  },
+  {
+    "id": "soccer-leagues-premier-league",
+    "name": "Premier League",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/Premier League.png"
+  },
+  {
+    "id": "soccer-leagues-serie-a",
+    "name": "Serie_A",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/Serie_A.png"
+  },
+  {
+    "id": "soccer-leagues-supercopa",
+    "name": "SuperCopa",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/SuperCopa.png"
+  },
+  {
+    "id": "soccer-leagues-su-per-lig",
+    "name": "Süper_Lig",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/Süper_Lig.png"
+  },
+  {
+    "id": "soccer-leagues-uefa-champions-league",
+    "name": "UEFA_Champions_League",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/UEFA_Champions_League.png"
+  },
+  {
+    "id": "soccer-leagues-uefa-europa-conference",
+    "name": "UEFA_Europa_Conference",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/UEFA_Europa_Conference.png"
+  },
+  {
+    "id": "soccer-leagues-uefa-europa-league",
+    "name": "UEFA_Europa_League",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/UEFA_Europa_League.png"
+  },
+  {
+    "id": "soccer-leagues-uefa-super-cup",
+    "name": "UEFA_Super_Cup",
+    "sport": "Soccer",
+    "sub": "Leagues",
+    "file": "logos/Soccer/Leagues/UEFA_Super_Cup.png"
+  },
+  {
+    "id": "soccer-liga-mx-america",
+    "name": "America",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/America.png"
+  },
+  {
+    "id": "soccer-liga-mx-atlas",
+    "name": "Atlas",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/Atlas.png"
+  },
+  {
+    "id": "soccer-liga-mx-atletico",
+    "name": "Atletico",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/Atletico.png"
+  },
+  {
+    "id": "soccer-liga-mx-chivas",
+    "name": "Chivas",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/Chivas.png"
+  },
+  {
+    "id": "soccer-liga-mx-cruz-azul",
+    "name": "Cruz Azul",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/Cruz Azul.png"
+  },
+  {
+    "id": "soccer-liga-mx-fc-juarez",
+    "name": "FC Juarez",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/FC Juarez.png"
+  },
+  {
+    "id": "soccer-liga-mx-leon",
+    "name": "Leon",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/Leon.png"
+  },
+  {
+    "id": "soccer-liga-mx-mazatlan",
+    "name": "Mazatlan",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/Mazatlan.png"
+  },
+  {
+    "id": "soccer-liga-mx-monterrey",
+    "name": "Monterrey",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/Monterrey.png"
+  },
+  {
+    "id": "soccer-liga-mx-necaxa",
+    "name": "Necaxa",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/Necaxa.png"
+  },
+  {
+    "id": "soccer-liga-mx-pachuca",
+    "name": "Pachuca",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/Pachuca.png"
+  },
+  {
+    "id": "soccer-liga-mx-puebla",
+    "name": "Puebla",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/Puebla.png"
+  },
+  {
+    "id": "soccer-liga-mx-pumas",
+    "name": "Pumas",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/Pumas.png"
+  },
+  {
+    "id": "soccer-liga-mx-queretaro",
+    "name": "Queretaro",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/Queretaro.png"
+  },
+  {
+    "id": "soccer-liga-mx-santos",
+    "name": "Santos",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/Santos.png"
+  },
+  {
+    "id": "soccer-liga-mx-tigres",
+    "name": "Tigres",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/Tigres.png"
+  },
+  {
+    "id": "soccer-liga-mx-tijuana",
+    "name": "Tijuana",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/Tijuana.png"
+  },
+  {
+    "id": "soccer-liga-mx-toluca",
+    "name": "Toluca",
+    "sport": "Soccer",
+    "sub": "Liga MX",
+    "file": "logos/Soccer/Teams/Mexico/Toluca.png"
+  },
+  {
+    "id": "soccer-liga-profesional-boca-juniors",
+    "name": "Boca_Juniors",
+    "sport": "Soccer",
+    "sub": "Liga Profesional",
+    "file": "logos/Soccer/Teams/Argentina/Boca_Juniors.png"
+  },
+  {
+    "id": "soccer-liga-profesional-river-plate",
+    "name": "River_Plate",
+    "sport": "Soccer",
+    "sub": "Liga Profesional",
+    "file": "logos/Soccer/Teams/Argentina/River_Plate.png"
+  },
+  {
+    "id": "soccer-ligue-1-ac-ajaccio",
+    "name": "AC_Ajaccio",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/AC_Ajaccio.png"
+  },
+  {
+    "id": "soccer-ligue-1-ajauxerre",
+    "name": "AJAuxerre",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/AJAuxerre.png"
+  },
+  {
+    "id": "soccer-ligue-1-as-monaco",
+    "name": "AS_Monaco",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/AS_Monaco.png"
+  },
+  {
+    "id": "soccer-ligue-1-angers",
+    "name": "Angers",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/Angers.png"
+  },
+  {
+    "id": "soccer-ligue-1-clermont-foot",
+    "name": "Clermont_Foot",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/Clermont_Foot.png"
+  },
+  {
+    "id": "soccer-ligue-1-es-troyes-ac",
+    "name": "ES_Troyes_AC",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/ES_Troyes_AC.png"
+  },
+  {
+    "id": "soccer-ligue-1-fc-girondins-de-bordeaux-logo-1",
+    "name": "FC_Girondins_de_Bordeaux_logo 1",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/FC_Girondins_de_Bordeaux_logo 1.png"
+  },
+  {
+    "id": "soccer-ligue-1-fc-metz-2021-logo-1",
+    "name": "FC_Metz_2021_Logo 1",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/FC_Metz_2021_Logo 1.png"
+  },
+  {
+    "id": "soccer-ligue-1-fc-nantes",
+    "name": "FC_Nantes",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/FC_Nantes.png"
+  },
+  {
+    "id": "soccer-ligue-1-hsc-montpellier",
+    "name": "HSC_Montpellier",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/HSC_Montpellier.png"
+  },
+  {
+    "id": "soccer-ligue-1-le-havre-ac-logo-1",
+    "name": "Le_Havre_AC_logo 1",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/Le_Havre_AC_logo 1.png"
+  },
+  {
+    "id": "soccer-ligue-1-lens",
+    "name": "Lens",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/Lens.png"
+  },
+  {
+    "id": "soccer-ligue-1-lille",
+    "name": "Lille",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/Lille.png"
+  },
+  {
+    "id": "soccer-ligue-1-lorient-bretagne",
+    "name": "Lorient_Bretagne",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/Lorient_Bretagne.png"
+  },
+  {
+    "id": "soccer-ligue-1-ogc-nice",
+    "name": "OGC_Nice",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/OGC_Nice.png"
+  },
+  {
+    "id": "soccer-ligue-1-olympique-lyonnais",
+    "name": "Olympique_Lyonnais",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/Olympique_Lyonnais.png"
+  },
+  {
+    "id": "soccer-ligue-1-olympique-de-marseille",
+    "name": "Olympique_de_Marseille",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/Olympique_de_Marseille.png"
+  },
+  {
+    "id": "soccer-ligue-1-psg",
+    "name": "PSG",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/PSG.png"
+  },
+  {
+    "id": "soccer-ligue-1-stade-brestois",
+    "name": "Stade_Brestois",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/Stade_Brestois.png"
+  },
+  {
+    "id": "soccer-ligue-1-stade-rennais-fc",
+    "name": "Stade_Rennais_FC",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/Stade_Rennais_FC.png"
+  },
+  {
+    "id": "soccer-ligue-1-stade-de-reims",
+    "name": "Stade_de_Reims",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/Stade_de_Reims.png"
+  },
+  {
+    "id": "soccer-ligue-1-strasbourg",
+    "name": "Strasbourg",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/Strasbourg.png"
+  },
+  {
+    "id": "soccer-ligue-1-toulouse",
+    "name": "Toulouse",
+    "sport": "Soccer",
+    "sub": "Ligue 1",
+    "file": "logos/Soccer/Teams/France/Toulouse.png"
+  },
+  {
+    "id": "soccer-mls-atlanta-united",
+    "name": "Atlanta_United",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Atlanta_United.png"
+  },
+  {
+    "id": "soccer-mls-austin-fc",
+    "name": "Austin_FC_",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Austin_FC_.png"
+  },
+  {
+    "id": "soccer-mls-cf-montreal-logo-2023-1",
+    "name": "CF_Montreal_logo_2023 1",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/CF_Montreal_logo_2023 1.png"
+  },
+  {
+    "id": "soccer-mls-charlotte-fc",
+    "name": "Charlotte_FC_",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Charlotte_FC_.png"
+  },
+  {
+    "id": "soccer-mls-chicago-fire-fc",
+    "name": "Chicago_Fire_FC_",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Chicago_Fire_FC_.png"
+  },
+  {
+    "id": "soccer-mls-colorado-rapids",
+    "name": "Colorado_Rapids",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Colorado_Rapids.png"
+  },
+  {
+    "id": "soccer-mls-columbus-crew",
+    "name": "Columbus_Crew",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Columbus_Crew.png"
+  },
+  {
+    "id": "soccer-mls-d-c-united",
+    "name": "D.C._United",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/D.C._United.png"
+  },
+  {
+    "id": "soccer-mls-fc-cincinnati",
+    "name": "FC_Cincinnati",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/FC_Cincinnati.png"
+  },
+  {
+    "id": "soccer-mls-fc-dallas",
+    "name": "FC_Dallas",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/FC_Dallas.png"
+  },
+  {
+    "id": "soccer-mls-houston-dynamo-fc",
+    "name": "Houston_Dynamo_FC_",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Houston_Dynamo_FC_.png"
+  },
+  {
+    "id": "soccer-mls-inter-miami-cf",
+    "name": "Inter_Miami_CF",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Inter_Miami_CF.png"
+  },
+  {
+    "id": "soccer-mls-la-galaxy",
+    "name": "LA_Galaxy",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/LA_Galaxy.png"
+  },
+  {
+    "id": "soccer-mls-los-angeles-football-club",
+    "name": "Los_Angeles_Football_Club",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Los_Angeles_Football_Club.png"
+  },
+  {
+    "id": "soccer-mls-minnesota-united",
+    "name": "Minnesota_United",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Minnesota_United.png"
+  },
+  {
+    "id": "soccer-mls-nashville-sc",
+    "name": "Nashville_SC_",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Nashville_SC_.png"
+  },
+  {
+    "id": "soccer-mls-new-england-revolution-2021-logo-1",
+    "name": "New_England_Revolution_(2021)_logo 1",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/New_England_Revolution_(2021)_logo 1.png"
+  },
+  {
+    "id": "soccer-mls-new-york-city-fc",
+    "name": "New_York_City_FC",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/New_York_City_FC.png"
+  },
+  {
+    "id": "soccer-mls-new-york-red-bulls",
+    "name": "New_York_Red_Bulls",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/New_York_Red_Bulls.png"
+  },
+  {
+    "id": "soccer-mls-orlando-city",
+    "name": "Orlando_City",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Orlando_City.png"
+  },
+  {
+    "id": "soccer-mls-philadelphia-union",
+    "name": "Philadelphia_Union",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Philadelphia_Union.png"
+  },
+  {
+    "id": "soccer-mls-portland-timbers",
+    "name": "Portland_Timbers",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Portland_Timbers.png"
+  },
+  {
+    "id": "soccer-mls-real-salt-lake",
+    "name": "Real_Salt_Lake",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Real_Salt_Lake.png"
+  },
+  {
+    "id": "soccer-mls-san-jose-earthquakes",
+    "name": "San_Jose_Earthquakes",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/San_Jose_Earthquakes.png"
+  },
+  {
+    "id": "soccer-mls-seattle-sounders-fc",
+    "name": "Seattle_Sounders_FC",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Seattle_Sounders_FC.png"
+  },
+  {
+    "id": "soccer-mls-sporting-kansas-city",
+    "name": "Sporting_Kansas_City",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Sporting_Kansas_City.png"
+  },
+  {
+    "id": "soccer-mls-st-louis-city-sc",
+    "name": "St._Louis_City_SC_",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/St._Louis_City_SC_.png"
+  },
+  {
+    "id": "soccer-mls-toronto-fc",
+    "name": "Toronto_FC_",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Toronto_FC_.png"
+  },
+  {
+    "id": "soccer-mls-vancouver-whitecaps-fc",
+    "name": "Vancouver_Whitecaps_FC",
+    "sport": "Soccer",
+    "sub": "MLS",
+    "file": "logos/Soccer/Teams/MLS/Vancouver_Whitecaps_FC.png"
+  },
+  {
+    "id": "soccer-primeira-liga-benfica",
+    "name": "Benfica",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/Benfica.png"
+  },
+  {
+    "id": "soccer-primeira-liga-boavista-f-c",
+    "name": "Boavista_F.C.",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/Boavista_F.C..png"
+  },
+  {
+    "id": "soccer-primeira-liga-csm",
+    "name": "CSM",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/CSM.png"
+  },
+  {
+    "id": "soccer-primeira-liga-casa-pia-atle-tico-clube",
+    "name": "Casa Pia Atlético Clube",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/Casa Pia Atlético Clube.png"
+  },
+  {
+    "id": "soccer-primeira-liga-chaves",
+    "name": "Chaves",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/Chaves.png"
+  },
+  {
+    "id": "soccer-primeira-liga-ebene",
+    "name": "Ebene",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/Ebene.png"
+  },
+  {
+    "id": "soccer-primeira-liga-estoril-praia",
+    "name": "Estoril-Praia",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/Estoril-Praia.png"
+  },
+  {
+    "id": "soccer-primeira-liga-fc-arouca",
+    "name": "FC_Arouca",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/FC_Arouca.png"
+  },
+  {
+    "id": "soccer-primeira-liga-fc-vizela",
+    "name": "FC_Vizela",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/FC_Vizela.png"
+  },
+  {
+    "id": "soccer-primeira-liga-famalica-o",
+    "name": "Famalicão",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/Famalicão.png"
+  },
+  {
+    "id": "soccer-primeira-liga-gil-vicente",
+    "name": "Gil_Vicente",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/Gil_Vicente.png"
+  },
+  {
+    "id": "soccer-primeira-liga-moreirense",
+    "name": "Moreirense",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/Moreirense.png"
+  },
+  {
+    "id": "soccer-primeira-liga-pac-os-de-ferreira",
+    "name": "Paços_de_Ferreira",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/Paços_de_Ferreira.png"
+  },
+  {
+    "id": "soccer-primeira-liga-portimonense-sporting-clube",
+    "name": "Portimonense_Sporting_Clube",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/Portimonense_Sporting_Clube.png"
+  },
+  {
+    "id": "soccer-primeira-liga-porto",
+    "name": "Porto",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/Porto.png"
+  },
+  {
+    "id": "soccer-primeira-liga-rio-ave",
+    "name": "Rio_Ave",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/Rio_Ave.png"
+  },
+  {
+    "id": "soccer-primeira-liga-santa-clara",
+    "name": "Santa_Clara",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/Santa_Clara.png"
+  },
+  {
+    "id": "soccer-primeira-liga-sporting",
+    "name": "Sporting",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/Sporting.png"
+  },
+  {
+    "id": "soccer-primeira-liga-vito-ria-guimara-es",
+    "name": "Vitória_Guimarães",
+    "sport": "Soccer",
+    "sub": "Primeira Liga",
+    "file": "logos/Soccer/Teams/Portugal/Vitória_Guimarães.png"
+  },
+  {
+    "id": "soccer-scottish-premiership-celtic-fc-1",
+    "name": "Celtic_FC 1",
+    "sport": "Soccer",
+    "sub": "Scottish Premiership",
+    "file": "logos/Soccer/Teams/Scotland/Celtic_FC 1.png"
+  },
+  {
+    "id": "soccer-scottish-premiership-rangers-fc-1",
+    "name": "Rangers_FC 1",
+    "sport": "Soccer",
+    "sub": "Scottish Premiership",
+    "file": "logos/Soccer/Teams/Scotland/Rangers_FC 1.png"
+  },
+  {
+    "id": "soccer-serie-a-atalanta",
+    "name": "Atalanta",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Atalanta.png"
+  },
+  {
+    "id": "soccer-serie-a-benevento",
+    "name": "Benevento",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Benevento.png"
+  },
+  {
+    "id": "soccer-serie-a-bologna",
+    "name": "Bologna",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Bologna.png"
+  },
+  {
+    "id": "soccer-serie-a-brescia-calcio",
+    "name": "Brescia Calcio",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Brescia Calcio.png"
+  },
+  {
+    "id": "soccer-serie-a-cagliari",
+    "name": "Cagliari",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Cagliari.png"
+  },
+  {
+    "id": "soccer-serie-a-como",
+    "name": "Como",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Como.png"
+  },
+  {
+    "id": "soccer-serie-a-cremonense",
+    "name": "Cremonense",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Cremonense.png"
+  },
+  {
+    "id": "soccer-serie-a-empoli",
+    "name": "Empoli",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Empoli.png"
+  },
+  {
+    "id": "soccer-serie-a-fiorentina",
+    "name": "Fiorentina",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Fiorentina.png"
+  },
+  {
+    "id": "soccer-serie-a-frosinone-calcio-logo-1",
+    "name": "Frosinone_Calcio_logo 1",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Frosinone_Calcio_logo 1.png"
+  },
+  {
+    "id": "soccer-serie-a-genoa",
+    "name": "Genoa",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Genoa.png"
+  },
+  {
+    "id": "soccer-serie-a-hellas-verona",
+    "name": "Hellas Verona",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Hellas Verona.png"
+  },
+  {
+    "id": "soccer-serie-a-inter-milan",
+    "name": "Inter Milan",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Inter Milan.png"
+  },
+  {
+    "id": "soccer-serie-a-juventus",
+    "name": "Juventus",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Juventus.png"
+  },
+  {
+    "id": "soccer-serie-a-juventus-black",
+    "name": "Juventus - Black",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Juventus - Black.png"
+  },
+  {
+    "id": "soccer-serie-a-lazio",
+    "name": "Lazio",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Lazio.png"
+  },
+  {
+    "id": "soccer-serie-a-lecce",
+    "name": "Lecce",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Lecce.png"
+  },
+  {
+    "id": "soccer-serie-a-milan",
+    "name": "Milan",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Milan.png"
+  },
+  {
+    "id": "soccer-serie-a-monza",
+    "name": "Monza",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Monza.png"
+  },
+  {
+    "id": "soccer-serie-a-napoli",
+    "name": "Napoli",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Napoli.png"
+  },
+  {
+    "id": "soccer-serie-a-parma",
+    "name": "Parma",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Parma.png"
+  },
+  {
+    "id": "soccer-serie-a-roma",
+    "name": "Roma",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Roma.png"
+  },
+  {
+    "id": "soccer-serie-a-salernitana",
+    "name": "Salernitana",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Salernitana.png"
+  },
+  {
+    "id": "soccer-serie-a-sampdoria",
+    "name": "Sampdoria",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Sampdoria.png"
+  },
+  {
+    "id": "soccer-serie-a-sassuolo",
+    "name": "Sassuolo",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Sassuolo.png"
+  },
+  {
+    "id": "soccer-serie-a-spezia",
+    "name": "Spezia",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Spezia.png"
+  },
+  {
+    "id": "soccer-serie-a-torino",
+    "name": "Torino",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Torino.png"
+  },
+  {
+    "id": "soccer-serie-a-udinese",
+    "name": "Udinese",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Udinese.png"
+  },
+  {
+    "id": "soccer-serie-a-venezia",
+    "name": "Venezia",
+    "sport": "Soccer",
+    "sub": "Serie A",
+    "file": "logos/Soccer/Teams/Italy/Venezia.png"
+  },
+  {
+    "id": "soccer-s-per-lig-alanyaspor",
+    "name": "Alanyaspor",
+    "sport": "Soccer",
+    "sub": "Süper Lig",
+    "file": "logos/Soccer/Teams/Turkey/Alanyaspor.png"
+  },
+  {
+    "id": "soccer-s-per-lig-ankaragucu",
+    "name": "Ankaragucu",
+    "sport": "Soccer",
+    "sub": "Süper Lig",
+    "file": "logos/Soccer/Teams/Turkey/Ankaragucu.png"
+  },
+  {
+    "id": "soccer-s-per-lig-antalyaspor",
+    "name": "Antalyaspor",
+    "sport": "Soccer",
+    "sub": "Süper Lig",
+    "file": "logos/Soccer/Teams/Turkey/Antalyaspor.png"
+  },
+  {
+    "id": "soccer-s-per-lig-besiktasjk",
+    "name": "BesiktasJK",
+    "sport": "Soccer",
+    "sub": "Süper Lig",
+    "file": "logos/Soccer/Teams/Turkey/BesiktasJK.png"
+  },
+  {
+    "id": "soccer-s-per-lig-fenerbahc-e",
+    "name": "Fenerbahçe",
+    "sport": "Soccer",
+    "sub": "Süper Lig",
+    "file": "logos/Soccer/Teams/Turkey/Fenerbahçe.png"
+  },
+  {
+    "id": "soccer-s-per-lig-galatasaray",
+    "name": "Galatasaray",
+    "sport": "Soccer",
+    "sub": "Süper Lig",
+    "file": "logos/Soccer/Teams/Turkey/Galatasaray.png"
+  },
+  {
+    "id": "soccer-s-per-lig-gazis-ehir-gaziantep",
+    "name": "Gazişehir_Gaziantep",
+    "sport": "Soccer",
+    "sub": "Süper Lig",
+    "file": "logos/Soccer/Teams/Turkey/Gazişehir_Gaziantep.png"
+  },
+  {
+    "id": "soccer-s-per-lig-istanbulspor",
+    "name": "Istanbulspor",
+    "sport": "Soccer",
+    "sub": "Süper Lig",
+    "file": "logos/Soccer/Teams/Turkey/Istanbulspor.png"
+  },
+  {
+    "id": "soccer-s-per-lig-i-stanbul-bas-aks-ehir-logo",
+    "name": "İstanbul_Başakşehir_logo",
+    "sport": "Soccer",
+    "sub": "Süper Lig",
+    "file": "logos/Soccer/Teams/Turkey/İstanbul_Başakşehir_logo.png"
+  },
+  {
+    "id": "soccer-s-per-lig-kasimpasa-logo",
+    "name": "Kasimpasa_logo",
+    "sport": "Soccer",
+    "sub": "Süper Lig",
+    "file": "logos/Soccer/Teams/Turkey/Kasimpasa_logo.png"
+  },
+  {
+    "id": "soccer-s-per-lig-kayserispor-logo",
+    "name": "Kayserispor_logo",
+    "sport": "Soccer",
+    "sub": "Süper Lig",
+    "file": "logos/Soccer/Teams/Turkey/Kayserispor_logo.png"
+  },
+  {
+    "id": "soccer-s-per-lig-konyaspor-logo",
+    "name": "Konyaspor_logo",
+    "sport": "Soccer",
+    "sub": "Süper Lig",
+    "file": "logos/Soccer/Teams/Turkey/Konyaspor_logo.png"
+  },
+  {
+    "id": "soccer-s-per-lig-sivasspor-logo",
+    "name": "Sivasspor_logo",
+    "sport": "Soccer",
+    "sub": "Süper Lig",
+    "file": "logos/Soccer/Teams/Turkey/Sivasspor_logo.png"
+  },
+  {
+    "id": "soccer-s-per-lig-trabzonspor-amblem",
+    "name": "Trabzonspor_Amblem",
+    "sport": "Soccer",
+    "sub": "Süper Lig",
+    "file": "logos/Soccer/Teams/Turkey/Trabzonspor_Amblem.png"
+  },
+  {
+    "id": "tennis-australian-open",
+    "name": "Australian Open",
+    "sport": "Tennis",
+    "sub": "",
+    "file": "logos/Tennis/Australian Open.png"
+  },
+  {
+    "id": "tennis-logo-roland-garros",
+    "name": "Logo Roland-Garros",
+    "sport": "Tennis",
+    "sub": "",
+    "file": "logos/Tennis/Logo Roland-Garros.png"
+  },
+  {
+    "id": "tennis-usopen-header-logo",
+    "name": "Usopen-Header-Logo",
+    "sport": "Tennis",
+    "sub": "",
+    "file": "logos/Tennis/Usopen-Header-Logo.png"
+  },
+  {
+    "id": "tennis-wimbledon",
+    "name": "Wimbledon",
+    "sport": "Tennis",
+    "sub": "",
+    "file": "logos/Tennis/Wimbledon.png"
+  },
+  {
+    "id": "ufl-arl",
+    "name": "Arl",
+    "sport": "UFL",
+    "sub": "",
+    "file": "logos/UFL/Arl.png"
+  },
+  {
+    "id": "ufl-birmingham-stallions",
+    "name": "Birmingham-Stallions",
+    "sport": "UFL",
+    "sub": "",
+    "file": "logos/UFL/Birmingham-Stallions.png"
+  },
+  {
+    "id": "ufl-dc",
+    "name": "Dc",
+    "sport": "UFL",
+    "sub": "",
+    "file": "logos/UFL/Dc.png"
+  },
+  {
+    "id": "ufl-hou",
+    "name": "Hou",
+    "sport": "UFL",
+    "sub": "",
+    "file": "logos/UFL/Hou.png"
+  },
+  {
+    "id": "ufl-memphis-showboats",
+    "name": "Memphis-Showboats",
+    "sport": "UFL",
+    "sub": "",
+    "file": "logos/UFL/Memphis-Showboats.png"
+  },
+  {
+    "id": "ufl-michigan-panthers",
+    "name": "Michigan-Panthers",
+    "sport": "UFL",
+    "sub": "",
+    "file": "logos/UFL/Michigan-Panthers.png"
+  },
+  {
+    "id": "ufl-sa",
+    "name": "Sa",
+    "sport": "UFL",
+    "sub": "",
+    "file": "logos/UFL/Sa.png"
+  },
+  {
+    "id": "ufl-stl",
+    "name": "Stl",
+    "sport": "UFL",
+    "sub": "",
+    "file": "logos/UFL/Stl.png"
+  }
+]
